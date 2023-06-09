@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <language>ru</language>
+    <title>Lenta.ru : Новости</title>
+    <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.</description>
+    <link>https://lenta.ru</link>
+    <image>
+      <url>https://lenta.ru/images/small_logo.png</url>
+      <title>Lenta.ru</title>
+      <link>https://lenta.ru</link>
+      <width>134</width>
+      <height>22</height>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" href="http://lenta.ru/rss"/>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/dannye/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Данные клиентов компании «Аскона» появились в сети</title>
+  <link>https://lenta.ru/news/2023/06/07/dannye/</link>
+  <description>
+    <![CDATA[Компания «Аскона» начала внутреннюю проверку после сообщений об утечке данных клиентов, сообщили ТАСС в пресс-службе компании: «Мы понимаем важность персональных данных и предпринимаем все усилия по их защите». Информацию об утечке около 2 миллионов записей клиентов компании опубликовали в Telegram-канале Data1eaks.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 23:18:24 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/23/20230607232045116/pic_5e931a8dfe7be20c07e58b0eec1ad497.jpg" type="image/jpeg" length="46634"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/rosatom/</guid>
+  <author>Марина Совина</author>
+  <title>В «Росатоме» заявили о запасных вариантах водоснабжения Запорожской АЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/rosatom/</link>
+  <description>
+    <![CDATA[Генеральный директор госкорпораци «Росатом» Алексей Лихачев заявил о наличии запасных вариантов водоснабжения Запорожской атомной электростанции (ЗАЭС). По словам главы компании, на ЗАЭС организовано водоснабжение через подземные скважины. «Необходимое оборудование для этого тоже имеется», — сказал Лихачев.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 23:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/23/20230607232026165/pic_e082030fc7e045643475f0d864293f82.jpg" type="image/jpeg" length="25379"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/messi_barca/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Месси объяснил отказ от возвращения в «Барселону»</title>
+  <link>https://lenta.ru/news/2023/06/07/messi_barca/</link>
+  <description>
+    <![CDATA[Аргентинский нападающий Лионель Месси объяснил отказ от возвращения в «Барселону». Футболист заявил, что очень хотел вернуться, но его пугали трудности и отсутствие определенности. Он подчеркнул, что хотел принять решение самостоятельно, принимая во внимание свои потребности и потребности семьи.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 23:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/23/20230607230427747/pic_0afab601ffb988cfd59b96b5228637e3.jpeg" type="image/jpeg" length="19052"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/whu/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Болельщики разбили голову футболисту стаканом во время финала Лиги конференций</title>
+  <link>https://lenta.ru/news/2023/06/07/whu/</link>
+  <description>
+    <![CDATA[Болельщики разбили голову капитану итальянской «Фиорентины» Кристиано Бираги стаканом во время финала Лиги конференций сезона-2022/2023 против английского «Вест Хэма». Инцидент произошел на 34-й минуте встречи, когда защитник собирался подавать угловой. Арбитрам пришлось остановить матч.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 23:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607225410730/pic_d634f4b2492fc1f35983e7fe93f1e6a9.jpg" type="image/jpeg" length="37657"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/vosstanovleniye/</guid>
+  <author>Марина Совина</author>
+  <title>На Украине оценили возможность восстановления Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/vosstanovleniye/</link>
+  <description>
+    <![CDATA[Каховская ГЭС восстановлению не подлежит. Об этом заявил генеральный директор «Укргидроэнерго» Игорь Сирота. По его словам, прежде всего необходимо перегородить разрушенную дамбу и обеспечить водой население, сельское хозяйство и промышленность. Чтобы построить новую станцию, потребуется минимум пять лет, добавил он.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 23:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/23/20230607230850327/pic_b3054c8e9a480e20d5a176af9a578757.jpg" type="image/jpeg" length="36988"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/blinken/</guid>
+  <author>Марина Совина</author>
+  <title>Блинкена обвинили в бесчеловечном отношении к украинцам</title>
+  <link>https://lenta.ru/news/2023/06/07/blinken/</link>
+  <description>
+    <![CDATA[Бывший советник главы Пентагона полковник Дуглас Макгрегор обвинил госсекретаря США Энтони Блинкена в бесчеловечном отношении к украинцам. Так он отреагировал на слова Блинкена о «поражении» президента России Владимира Путина на Украине и о готовности поддерживать киевский режим столько, сколько потребуется. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607225541025/pic_f72844917eeda647512eb31491563dac.jpg" type="image/jpeg" length="23095"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/oboronachezska/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Президент Чехии подписал закон о расходах на оборону</title>
+  <link>https://lenta.ru/news/2023/06/07/oboronachezska/</link>
+  <description>
+    <![CDATA[Президент Чехии Петр Павел подписал закон о расходах на оборону республики, которые ежегодно будут составлять 2 процента от ВВП. Об этом сообщает Чешское радио. 21 апреля этот документ утвердила Палата депутатов. Сенат Чехии утвердил подготовленный правительством закон 31 мая. <br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607224003021/pic_7dc2847f5704fc3ec82dbb03f2d991ab.jpg" type="image/jpeg" length="40529"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/otnoosh/</guid>
+  <author>Марина Совина</author>
+  <title>Большинство европейцев выступили за сохранение отношений с Россией</title>
+  <link>https://lenta.ru/news/2023/06/07/otnoosh/</link>
+  <description>
+    <![CDATA[Большая часть европейцев выступила за сохранение отношений с Россией, а некоторые — за полное сотрудничество после завершения украинского конфликта. Об этом говорится в отчете Европейского совета по международным отношениям на основе исследования. Опрос был проведен в апреле 2023 года в 11 европейских странах.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607222014750/pic_435a3f0559d80e1ff3c19abbcf0a5ddd.jpg" type="image/jpeg" length="30923"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/phone/</guid>
+  <author>Марина Совина</author>
+  <title>Путин поговорил по телефону с наследным принцем Саудовской Аравии</title>
+  <link>https://lenta.ru/news/2023/06/07/phone/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин провел телефонный разговор с наследным принцем Саудовской Аравии Мухаммедом Бен Сальманом Аль Саудом. Об этом сообщается на сайте Кремля. Политики обсудили наращивание торговых связей, реализацию проектов в сферах инвестиций, логистики и энергетики. <br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607223151692/pic_04058dae9830dcb4f301515e1f6b206f.jpg" type="image/jpeg" length="24781"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/skoree/</guid>
+  <author>Марина Совина</author>
+  <title>Россия заявила о возможности ускорить создание газового хаба в Турции</title>
+  <link>https://lenta.ru/news/2023/06/07/skoree/</link>
+  <description>
+    <![CDATA[Министр энергетики России Николай Шульгинов заявил о возможности ускорить создание газового хаба в Турции. По его словам, на сегодняшний день для этого сложились все условия. Глава ведомства отметил, что сроки организации хаба на данный момент не определены, однако работа по этому вопросу продолжается.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607222850564/pic_e608460f694660c62a4c6d6ef128c492.jpg" type="image/jpeg" length="36468"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/operation/</guid>
+  <author>Марина Совина</author>
+  <title>Папе Римскому провели операцию</title>
+  <link>https://lenta.ru/news/2023/06/07/operation/</link>
+  <description>
+    <![CDATA[Папе Римскому Франциску провели операцию на брюшной полости. Операция продлилась около трех часов. Ему провели лапаротомию и пластику брюшной стенки в рамках лечения от сужения кишечника. Понтифика уже перевели в палату. Ранее сообщалось, что Папа Римский вернется в Ватикан спустя несколько дней после операции. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607221229242/pic_c1a3247595f09a388a158d4d28b9f906.jpg" type="image/jpeg" length="17582"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/stalker/</guid>
+  <author>Алиса Удовик</author>
+  <title>Одержимый женщиной бегун воспользовался фитнес-приложением для слежки за ней</title>
+  <link>https://lenta.ru/news/2023/06/07/stalker/</link>
+  <description>
+    <![CDATA[60-летний житель Великобритании Тимоти Миллс влюбился в женщину и устроил за ней слежку через фитнес-приложение. Женатый мужчина познакомился с 49-летней мамой двоих детей в беговом клубе. Поначалу женщина считала Миллса своим другом, пока он не стал одержим ей. Полиция рассматривает вопрос о возбуждении дела.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/06/09/20230606095950655/pic_63bbce46e1f7f1ff9446dba2cfcce501.jpg" type="image/jpeg" length="18206"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/messi2/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Месси объявил о переходе в американский клуб</title>
+  <link>https://lenta.ru/news/2023/06/07/messi2/</link>
+  <description>
+    <![CDATA[Аргентинский нападающий Лионель Месси объявил о переходе в клуб из США «Интер Майами». Месси играл за ПСЖ с 2021 года. До этого форвард на протяжении всей карьеры выступал за «Барселону». В составе каталонцев он десять раз выигрывал чемпионат Испании и четырежды побеждал в Лиге чемпионов.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607220821722/pic_0afab601ffb988cfd59b96b5228637e3.jpeg" type="image/jpeg" length="19052"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/energopotreb/</guid>
+  <author>Юлия Мискевич</author>
+  <title>В Минэнерго рассказали о росте энергопотребления</title>
+  <link>https://lenta.ru/news/2023/06/07/energopotreb/</link>
+  <description>
+    <![CDATA[Министр энергетики России Николай Шульгинов заявил, что энергопотребление в России с начала года демонстрирует увеличение на 0,5 процента. Его слова приводит ТАСС. По словам чиновника, Минэнерго в первую очередь обращает внимание на такой показатель, как потребление электроэнергии.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607220909835/pic_2b1bab7119e82e381d1e00fb17836c83.jpg" type="image/jpeg" length="17800"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/restrr/</guid>
+  <author>Марина Совина</author>
+  <title>В МИД России пообещали ответить на новые санкции США</title>
+  <link>https://lenta.ru/news/2023/06/07/restrr/</link>
+  <description>
+    <![CDATA[Официальный представитель МИД России Мария Захарова заявила, что Москва ответит на новые санкции США в отношении россиян, якобы имеющих отношение к протестам в Молдавии. Слова дипломата приводит пресс-служба ведомства. По словам дипломата, нельзя не обратить внимание на замысловатость фантазий администрации США.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 22:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/21/20230607214936700/pic_47d2626258d227b8262ce11a34252503.jpg" type="image/jpeg" length="30343"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/oesr/</guid>
+  <author>Марина Совина</author>
+  <title>На Украине заявили о начале вступления страны в ОЭСР</title>
+  <link>https://lenta.ru/news/2023/06/07/oesr/</link>
+  <description>
+    <![CDATA[Правительство Украины заявило о запуске процесса вступления страны в Организацию экономического сотрудничества и развития (ОЭСР). Подписание документа состоялось 7 июня на встрече Совета ОЭСР министерского уровня в Париже. Премьер-министр Украины Денис Шмыгаль участвовал в мероприятии онлайн.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/21/20230607215825728/pic_869c6a52e5dd47985388c7f14b84910a.jpg" type="image/jpeg" length="13152"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/grafik/</guid>
+  <author>Марина Совина</author>
+  <title>Зеленский заявил об утверждении графика наступления ВСУ</title>
+  <link>https://lenta.ru/news/2023/06/07/grafik/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский заявил, что график начала украинского наступления утвержден. По его словам, все важные решения относительно наступления Вооруженных сил Украины (ВСУ) уже приняты. «Мы утвердили график начала движения наших войск, решения приняты», — сказал политик.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607221211536/pic_1c21b030b0a033da0ed43512e2f51d8a.jpg" type="image/jpeg" length="16948"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/xavier/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Иностранный олимпийский чемпион призвал россиян выступать под нейтральным флагом</title>
+  <link>https://lenta.ru/news/2023/06/07/xavier/</link>
+  <description>
+    <![CDATA[Олимпийский чемпион Барселоны-1992 по прыжкам в высоту Хавьер Сотомайор призвал россиян выступать под нейтральным флагом. «Если есть возможность, надо соревноваться, показывать свои силы, свои возможности, свой талант. Ведь молодость уходит», — заявил иностранный спортсмен.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607202834025/pic_f9b2e0ed85523496c1b70a811ef33633.jpg" type="image/jpeg" length="17791"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/dokazatelstva/</guid>
+  <author>Марина Совина</author>
+  <title>Киев признал отсутствие доказательств причастности России к ЧП на Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/dokazatelstva/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский признал, что у Киева нет доказательств причастности России к ЧП на Каховской гидроэлектростанции (ГЭС). «Какие доказательства мы можем иметь? Когда мы будем на месте, то соберем доказательства», - сказал он.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/22/20230607221150069/pic_1c21b030b0a033da0ed43512e2f51d8a.jpg" type="image/jpeg" length="16948"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/cholesterol/</guid>
+  <author>Вера Владзиевская</author>
+  <title>Врач назвала неожиданный факт о связи высокого уровня холестерина и веса</title>
+  <link>https://lenta.ru/news/2023/06/07/cholesterol/</link>
+  <description>
+    <![CDATA[Кардиолог, доктор медицинских наук Татьяна Бродовская опровергла популярные мифы о холестерине. Она пояснила, что холестерин необходим организму для полноценного функционирования, однако стоит отличать «плохой» холестерин от «хорошего». Она добавила, что высокий уровень холестерина может быть у любого человека.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/05/04/10/20230504102518689/pic_d6fa9f7c562c6b9942aa3ca7be0c3563.jpeg" type="image/jpeg" length="33960"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ffinnans/</guid>
+  <author>Марина Совина</author>
+  <title>Великобритания выделит деньги МАГАТЭ для поддержки работы на Украине</title>
+  <link>https://lenta.ru/news/2023/06/07/ffinnans/</link>
+  <description>
+    <![CDATA[Великобритания планирует выделить деньги МАГАТЭ в размере 750 тысяч фунтов для поддержки его работы по ядерной безопасности на Украине. Об этом сказано в заявлении британского МИД. Также подчеркивается, что с начала украинского конфликта Британия уже выделила пять миллионов фунтов на поддержку работы МАГАТЭ.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/21/20230607213454457/pic_e709f5396c03dad50793777447516874.jpg" type="image/jpeg" length="15428"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/protivnik/</guid>
+  <author>Марина Совина</author>
+  <title>Гладков сообщил об отсутствии противника на территории Новой Таволжанки</title>
+  <link>https://lenta.ru/news/2023/06/07/protivnik/</link>
+  <description>
+    <![CDATA[Губернатор Белгородской области Вячеслав Гладков сообщил об отсутствии противника в Новой Таволжанке. «На территории Новой Таволжанки противника нет. Много провокаций в последнее время по этому населенному пункту", — написал он. Перед властями сегодня стоит задача обеспечить безопасность жителей села, добавил он.<br /> <br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/21/20230607214723165/pic_50f38ecc37735ab030c658f432732131.jpg" type="image/jpeg" length="27706"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/grossichp/</guid>
+  <author>Марина Совина</author>
+  <title>В МАГАТЭ назвали последствия ЧП на Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/grossichp/</link>
+  <description>
+    <![CDATA[Генеральный директор МАГАТЭ Рафаэль Гросси заявил, что ЧП на Каховской гидроэлектростанции (ГЭС) может лишить ее охлаждения. По его словам, такие последствия возможны при дальнейшем разрушении станции, но сейчас оснований для паники нет.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/21/20230607214059122/pic_976cae25db685bc2f267ec6677876bf1.jpg" type="image/jpeg" length="24811"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ggrossii/</guid>
+  <author>Марина Совина</author>
+  <title>В МАГАТЭ прокомментировали ситуацию вокруг Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/ggrossii/</link>
+  <description>
+    <![CDATA[Генеральный директор МАГАТЭ Рафаэль Гросси заявил, что ситуация вокруг Каховской гидроэлектростанции (ГЭС) серьезная, но основания для паники сейчас нет. Случившееся он прокомментировал в интервью РИА Новости. Гросси также подчеркнул, что в МАГАТЭ не хотят «приуменьшать ситуацию, говоря, что проблемы здесь нет».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/21/20230607212340018/pic_4c0792b9f2857fc6efa7e8ba5b96b384.jpg" type="image/jpeg" length="24772"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/vsu/</guid>
+  <author>Марина Совина</author>
+  <title>Пушилин сообщил о попытке ВСУ прорвать линию обороны в ДНР</title>
+  <link>https://lenta.ru/news/2023/06/07/vsu/</link>
+  <description>
+    <![CDATA[Врио главы Донецкой народной республики (ДНР) Денис Пушилин заявил, что  Вооруженные силы Украины пытались проломить линию обороны в ДНР с использованием большого количества техники. Пушилин отметил, что российские подразделения были готовы и успешно отразили атаку.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/21/20230607212132518/pic_14e9c6a1389afdaeccc40aa97d97773b.jpg" type="image/jpeg" length="16903"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/surrrrogat/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Число умерших от отравления суррогатным сидром выросло</title>
+  <link>https://lenta.ru/news/2023/06/07/surrrrogat/</link>
+  <description>
+    <![CDATA[Число отравившихся суррогатным сидром достигло 96. 30 человек из них умерли. Об этом сообщила пресс-служба Минздрава, передает РИА Новости. На стационарном лечении в медучреждениях Ульяновской, Нижегородской, Самарской, Курганской областей и Республики Удмуртия находятся три пациента в крайне тяжелом состоянии.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/21/20230607211331577/pic_f0b66ac51a6619764261a886a57fd4db.jpg" type="image/jpeg" length="24872"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/rammstein_fired/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Rammstein уволила кастинг-директора из России после обвинений в адрес солиста</title>
+  <link>https://lenta.ru/news/2023/06/07/rammstein_fired/</link>
+  <description>
+    <![CDATA[Группа Rammstein уволила сотрудницу коллектива из России Алену Макееву, которая неофициально занимала должность кастинг-директора, после обвинений в адрес солиста в домогательствах и подмешивании наркотиков девушкам, посещавшим концерты группы. Отмечается, что Макеева занималась подбором девушек на выступления.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607193225221/pic_504925e9f3e02416d9951f32ca53487c.jpg" type="image/jpeg" length="23682"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/crocodile/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Ученые впервые зафиксировали непорочное зачатие у крокодила</title>
+  <link>https://lenta.ru/news/2023/06/07/crocodile/</link>
+  <description>
+    <![CDATA[В Коста-Рике самка крокодила, живущая в изоляции, сделала кладку яиц, что стало первым случаем непорочного зачатия среди крокодилов. Этот вид размножения ранее был замечен у птиц, акул, ящериц и змей. Открытие может помочь в изучении эволюционных процессов и способностей к размножению у динозавров.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/10/20230607102005588/pic_080ccdf550b0a27770e3b3461e893a1b.jpg" type="image/jpeg" length="49358"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/inflation/</guid>
+  <author>Вячеслав Агапов</author>
+  <title>Инфляция в России ускорилась за неделю</title>
+  <link>https://lenta.ru/news/2023/06/07/inflation/</link>
+  <description>
+    <![CDATA[С 30 мая по 5 июня годовая инфляции в России ускорилась до 2,68 процента. Сильнее всего за неделю подорожали туристические услуги, а цены на продукты, наоборот, снизились. К концу года Росстат ожидает инфляцию на уровне 4,5-6,5 процента, при этом в правительстве страны ее называют самой низкой в Европе.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 21:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607202522706/pic_32f9b0f4cefd945347a8c1ca3be7a5dc.jpg" type="image/jpeg" length="49200"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/granatiipens/</guid>
+  <author>Елизавета Новикова</author>
+  <title>В доме у 72-летнего российского пенсионера нашли гранаты и мины</title>
+  <link>https://lenta.ru/news/2023/06/07/granatiipens/</link>
+  <description>
+    <![CDATA[В Брянской области полицейские нашли гранаты и другие боеприпасы дома у 72-летнего пенсионера. Правоохранители изъяли 300 граммов тротила, пять гранат и две мины времен Великой Отечественной войны калибром 50 миллиметров без взрывателей. Россиянин признался, что нашел все эти боеприпасы в лесу еще до выхода на пенсию.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:59:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607172501251/pic_a43f59061a1648430feb61e15456513e.jpg" type="image/jpeg" length="24962"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/black_holes/</guid>
+  <author>Александр Еникеев</author>
+  <title>Объяснено загадочное поведение двойной черной дыры</title>
+  <link>https://lenta.ru/news/2023/06/07/black_holes/</link>
+  <description>
+    <![CDATA[Астрономы смоделировали необычную систему в ядре квазара OJ 287, состоящую из сверхмассивной черной дыры и вторичной черной дыры, которая периодически взаимодействует с аккреционным диском первой, производя мощные вспышки. Ученым удалось объяснить загадочную вспышку 2022 года, которая не вписывалась в общую картину.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/06/20/20230606205253505/pic_8a08b7f138c67a50b8cb7bd5a4597b74.jpg" type="image/jpeg" length="26742"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kokluev/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Атлет-чемпион назвал способы подготовиться к первому визиту в тренажерный зал</title>
+  <link>https://lenta.ru/news/2023/06/07/kokluev/</link>
+  <description>
+    <![CDATA[Восьмикратный чемпион России по тяжелой атлетике Михаил Кокляев назвал способы подготовиться к первому визиту в тренажерный зал. Спортсмен рекомендовал выбрать для тренировок удобные вещи, а также взять с собой бутылку воды. Также он посоветовал проконсультироваться с врачом на предмет противопоказаний.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607182057568/pic_7826cacbf48ab31eefa9d74c292a79da.jpg" type="image/jpeg" length="23360"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/zemlyanika/</guid>
+  <author>Екатерина Улитина</author>
+  <title>Диетолог назвала способную замедлить старение ягоду</title>
+  <link>https://lenta.ru/news/2023/06/07/zemlyanika/</link>
+  <description>
+    <![CDATA[Земляника обладает множеством уникальных целебных свойств, считает врач-диетолог Елена Соломатина. По словам врача, употребление ягод способно нейтрализовать раковые клетки и замедлить процесс старения. Кроме того, она обладает противовоспалительным, потогонным, антимикробным и мочегонным действием.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/11/20230607114545769/pic_e1dde13dd774b2e0005e4edff8fa67cd.jpg" type="image/jpeg" length="31692"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/spirt_voda/</guid>
+  <author>Полина Кислицына</author>
+  <title>Крупнейший производитель алкоголя в мире столкнулся с глобальной проблемой</title>
+  <link>https://lenta.ru/news/2023/06/07/spirt_voda/</link>
+  <description>
+    <![CDATA[Крупнейший производитель спиртных напитков в мире, британская компания Diageo, столкнулся с глобальной проблемой изменения климата. Об этом сообщает Bloomberg. В Diageo беспокоятся, что изменение климата приводит к дефициту воды — незаменимому ингредиенту каждого алкогольного напитка.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607122942484/pic_41e4b21f78d403b12d26d62dc0cdecf5.jpg" type="image/jpeg" length="41030"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/popytki_nastupleniya/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В ДНР предрекли новые попытки наступления ВСУ</title>
+  <link>https://lenta.ru/news/2023/06/07/popytki_nastupleniya/</link>
+  <description>
+    <![CDATA[Врио главы Донецкой народно республики (ДНР) Денис Пушилин предрек новые попытки наступления Вооруженных сил Украины. «Мы не испытываем никаких иллюзий, что на этом все закончилось. И те три дня активности — это все, на что они способны», — сказал политик в интервью РИА Новости.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607203820069/pic_9fd3ed76d21c0d6457183e4dd358adfd.jpg" type="image/jpeg" length="38737"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/norilskkk/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Бывшего гендиректора аэропорта российского города уличили в даче взятки</title>
+  <link>https://lenta.ru/news/2023/06/07/norilskkk/</link>
+  <description>
+    <![CDATA[Следователи возбудили уголовное дело в отношении экс-гендиректора аэропорта Норильска по подозрению в даче взятки за сокрытие невыполненных работ на стройке. В декабре 2020-го и осенью 2021 года гендиректор передал деньги должностному лицу другой организации для сокрытия факта невыполнения части работ по реконструкции.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607144730733/pic_c2e9c451169fbc8aa0098ae9725e21d7.jpg" type="image/jpeg" length="35316"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/un_ges/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>ООН предрекла ухудшение ситуации в ближайшие часы после разрушения Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/un_ges/</link>
+  <description>
+    <![CDATA[ООН предрекла ухудшение ситуации после разрушения Каховской ГЭС в ближайшие часы из-за продолжающегося подъема уровня воды. Отмечается, что все больше деревень и городов оказываются затопленными. «Это повлияет на доступ людей к основным услугам и создаст серьезные риски для здоровья», — заявили в ООН.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607204630032/pic_43eade2f4ebeec1138d7ea163c2b6c0d.jpg" type="image/jpeg" length="26936"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/pohitdolg/</guid>
+  <author>Екатерина Власова</author>
+  <title>Россиянин вывез 19-летнего знакомого в лес и привязал к дереву из-за долга</title>
+  <link>https://lenta.ru/news/2023/06/07/pohitdolg/</link>
+  <description>
+    <![CDATA[34-летний житель Красноярска вывез 19-летнего знакомого в лес и привязал к дереву из-за долга. 5 июня товарищи встретились в поселке Тяжинский в Кемеровской области. Фигурант ударил юношу по лицу и повез в лес. Затем мужчина привязал должника буксировочным тросом к дереву.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/11/20230607114837062/pic_9cf9f78b149db4c99059d4b0ebc93bd5.jpg" type="image/jpeg" length="29372"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/hairregrowth/</guid>
+  <author>Карина Черных</author>
+  <title>Девушка перестала брить волосы на теле и разбогатела</title>
+  <link>https://lenta.ru/news/2023/06/07/hairregrowth/</link>
+  <description>
+    <![CDATA[Американка Черри перестала брить волосы на теле и разбогатела на продаже откровенного контента на платформе OnlyFans. Она завела аккаунт на упомянутом сайте и начала набирать популярность у пользователей благодаря растительности, которую перестала удалять на ногах, в подмышечных впадинах и зоне промежности.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/13/20230607130326501/pic_da8a9386f45a45a6b900c01380992e76.jpg" type="image/jpeg" length="25997"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/prank/</guid>
+  <author>Олег Давыдов</author>
+  <title>Девушка оригинально разыграла позвонившего ей мошенника</title>
+  <link>https://lenta.ru/news/2023/06/07/prank/</link>
+  <description>
+    <![CDATA[Актриса дубляжа Кэт Картер опубликовала в TikTok ролик, в котором оригинально разыграла позвонившего ей мошенника. Девушка притворилась автоответчиком, после чего злоумышленник растерялся и закончил разговор. «Запутала спамера», — подписала профессиональный дублер ролик.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607141224318/pic_9411ba10f7f566c6a707f36b0f80ac52.jpg" type="image/jpeg" length="19639"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/drought/</guid>
+  <author>Дмитрий Воронин</author>
+  <title>В засухе на Урале и в Сибири увидели угрозу для коров</title>
+  <link>https://lenta.ru/news/2023/06/07/drought/</link>
+  <description>
+    <![CDATA[Аномальная жара, стоящая на Урале и в Сибири с начала мая, грозит этим регионам дефицитом сочных кормов, которые используются для питания крупного рогатого скота. Если ситуация с осадками в ближайшее время не изменится, это может привести к тому, что осенью фермеры начнут отправлять скот на убой. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607170327376/pic_227f213f118ede228b3580eeea714b54.jpg" type="image/jpeg" length="37838"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/voenkomaatnar/</guid>
+  <author>Елизавета Новикова</author>
+  <title>МВД предложило запретить уклонистам управлять машиной</title>
+  <link>https://lenta.ru/news/2023/06/07/voenkomaatnar/</link>
+  <description>
+    <![CDATA[МВД предложило ограничить в правах на управление автомобилем россиян, которые получили повестку, но не пришли военкомат. В частности, такие граждане не смогут получить водительское удостоверение. Ограничение на пользование автомобилем будет появляться в программном обеспечении информационной системы Госавтоинспекции.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607202950206/pic_17da247f9fad56f6bff4967df34f7f82.jpg" type="image/jpeg" length="26623"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/chitashtraf/</guid>
+  <author>Екатерина Власова</author>
+  <title>Россиянка ложно обвинила мужа в изнасиловании за отказ извиниться после ссоры</title>
+  <link>https://lenta.ru/news/2023/06/07/chitashtraf/</link>
+  <description>
+    <![CDATA[В Чите суд оштрафовал на 15 тысяч рублей 37-летнюю местную жительницу, ложно обвинившую супруга в изнасиловании. 17 ноября 2022 года женщина подала заявлении об ее изнасиловании супругом. Ее предупредили об уголовной ответственности за клевету. Однако в ходе проверки она призналась, что оговорила мужа. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/10/20230607104121789/pic_05fba72040a75dcc3369946e91f5e43e.jpg" type="image/jpeg" length="21286"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/gub_obstrel/</guid>
+  <author>Никита Абрамов</author>
+  <title>Гладков заявил об обстреле Шебекино во время его поездки в город</title>
+  <link>https://lenta.ru/news/2023/06/07/gub_obstrel/</link>
+  <description>
+    <![CDATA[Вооруженные силы Украины обстреляли Шебекино во время приезда губернатора Белгородской области Вячеслава Гладкова. Об этом он сообщил в своем Telegram-канале. Он отметил, что люди в Шебекино администрация и волонтеры подвозят воду, продукты питания. Своими силами устанавливаются генераторы.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607202413935/pic_94e65bdd36963d4499cac31caab63db5.jpg" type="image/jpeg" length="25515"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/bednost/</guid>
+  <author>Вячеслав Агапов</author>
+  <title>В России стало меньше граждан с доходами за чертой бедности</title>
+  <link>https://lenta.ru/news/2023/06/07/bednost/</link>
+  <description>
+    <![CDATA[В первом квартале 2023 года число россиян с доходами ниже границы бедности снизилось до 19,6 миллиона человек. В годовом выражении их количество сократилось до 13,5 процента от всего населения страны. В сравнении с 2022 годом число граждан за чертой бедности уменьшилось на 0,8 процентных пункта.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607195054977/pic_fbf2b875a7d82cb82d8540da16241a55.jpg" type="image/jpeg" length="26434"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ze_afr/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Названа дата встречи Зеленского с африканской миссией по Украине</title>
+  <link>https://lenta.ru/news/2023/06/07/ze_afr/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский встретится в лидерами стран Африки 16 июня. Такую дату назвал Браззавильский фонд, занимающийся подготовкой африканской миссии. В пятницу, 16 июня, президент примет в Киеве глав 7 государств африканского континента. На следующий день они встретятся с президентом России.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607202141190/pic_18275de4995aa1b04bc34d51831b3490.jpg" type="image/jpeg" length="15674"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/evakuaciiya/</guid>
+  <author>Никита Абрамов</author>
+  <title>Из подтопленных районов Херсонской области эвакуировали более 4000 человек</title>
+  <link>https://lenta.ru/news/2023/06/07/evakuaciiya/</link>
+  <description>
+    <![CDATA[Из подтопленных районов Херсонской области эвакуировано более 4000 человек. Об этом заявил врио главы российского региона Владимир Сальдо в своем Telegram-канале. Сальдо отметил, что пункты временного размещения оснащены всем необходимым и готовы к приему пострадавших жителей.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607201828744/pic_64dbc1cd33a9eec2aa6aa19d7803ccb0.jpg" type="image/jpeg" length="49517"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/vozmozhnost/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Столтенберг оценил возможность вступления Украины в НАТО в случае ее поражения</title>
+  <link>https://lenta.ru/news/2023/06/07/vozmozhnost/</link>
+  <description>
+    <![CDATA[Генеральный секретарь НАТО Йенс Столтенберг оценил возможность вступления Украины в Североатлантический альянс в случае ее поражения в конфликте с Россией. На форуме в Брюсселе он заявил, что при подобном развитии событий смысла в обсуждении членства Киева в блоке не будет.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607200727240/pic_119ba8143423a115a3f736709c88e9b2.jpg" type="image/jpeg" length="16788"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/youngappearance/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>50-летняя блогерша ответила стыдившим ее за любовь к молодежным нарядам хейтерам</title>
+  <link>https://lenta.ru/news/2023/06/07/youngappearance/</link>
+  <description>
+    <![CDATA[Зрелая блогерша Тинг ответила хейтерам в сети, которые стыдили ее за любовь к молодежным нарядам. На размещенных кадрах 50-летняя инфлюэнсерша примерила несколько стильных нарядов. По словам пользовательницы сети, она регулярно сталкивается с осуждением со стороны общественности из-за своих образов.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607124112821/pic_116be7e39bc02544006d58d13f292a3c.jpg" type="image/jpeg" length="20072"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/un_ammiak/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В ООН прокомментировали информацию о подрыве аммиакопровода</title>
+  <link>https://lenta.ru/news/2023/06/07/un_ammiak/</link>
+  <description>
+    <![CDATA[Организация Объединенных Наций не получала официальных данных о подрыве аммиакопровода Тольятти — Одесса, однако любая угроза этому аммиакопроводу вызывает обеспокоенность. Об этом заявил в среду на брифинге официальный представитель генерального секретаря ООН Стефан Дюжаррик.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607201600335/pic_1e46d17359d7d29c0500e5dc13de29d8.jpg" type="image/jpeg" length="20227"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/weapon/</guid>
+  <author>Мария Сметанина</author>
+  <title>Решение Швейцарии разрешить реэкспорт оружия на Украину объяснили</title>
+  <link>https://lenta.ru/news/2023/06/07/weapon/</link>
+  <description>
+    <![CDATA[Решение парламента Швейцарии разрешить реэкспортировать оружие собственного оружия на территорию Украины связано с общеевропейскими ценностями и видением конфликта Москвы и Киева. Такое мнение в разговоре с «Лентой.ру» высказал политолог, кандидат политических наук Станислав Бышок.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607201714585/pic_c65e0ef7a1d43bfe9bd113361033378b.jpg" type="image/jpeg" length="38253"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/shark/</guid>
+  <author>Алиса Удовик</author>
+  <title>Рыбак оседлал двухметровую акулу и попал на видео</title>
+  <link>https://lenta.ru/news/2023/06/07/shark/</link>
+  <description>
+    <![CDATA[В США мужчина поймал акулу и оседлал ее. Рыбак с группой других мужчин попал на видео, их сняла посетительница пляжа. На кадрах видно, как мужчины вытаскивают пойманную на крючок акулу на берег. Хищная рыба пытается вырваться и бьет хвостовым плавником по спине одного из рыбаков, после чего он спотыкается и падает.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/06/10/20230606100815618/pic_2b952c25a1a8a9a2b4ce5c5db809f186.jpg" type="image/jpeg" length="17365"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/podmisn/</guid>
+  <author>Екатерина Власова</author>
+  <title>Трое пьяных мужчин избили россиянина и изнасиловали его супругу</title>
+  <link>https://lenta.ru/news/2023/06/07/podmisn/</link>
+  <description>
+    <![CDATA[В Московкой области задержали троих мужчин в возрасте от 25 до 36 лет за изнасилование 35-летней женщины. 5 июня фигуранты выпивали в Ногинске и решили избить своего соседа. Затем они напали на его супругу и надругались над ней. Отмечается, что после этого мужчины снова ушли в соседнюю квартиру.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/13/20230607131826897/pic_1326035bfa55b3f7522f69269757ccf3.jpeg" type="image/jpeg" length="29628"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ceny/</guid>
+  <author>Александра Качан</author>
+  <title>Ценам на жилье в России предсказали снижение</title>
+  <link>https://lenta.ru/news/2023/06/07/ceny/</link>
+  <description>
+    <![CDATA[Цены на жилье в России упадут после ужесточения требований Центробанка (ЦБ) к ипотеке. Будущее рынка недвижимости предсказала вице-президент «Гильдии риелторов Москвы» Екатерина Никитина. По ее словам, снижение стоимости жилья составит от трех до пяти процентов в зависимости от сегмента.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607185534919/pic_8d5b948bb845c08a68e64b9dbf30741a.jpg" type="image/jpeg" length="32204"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/beet/</guid>
+  <author>Елена Апазиди</author>
+  <title>Свекольный сок сократил риск сердечных приступов у больных стенокардией</title>
+  <link>https://lenta.ru/news/2023/06/07/beet/</link>
+  <description>
+    <![CDATA[Ученые из Национального института исследований в области здравоохранения Великобритании и Британского фонда сердца (BHF) обнаружили, что ежедневное употребление свекольного сока после установки стента сократило вероятность сердечного приступа у пациентов со стенокардией. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607125957213/pic_d111c2901130cb8a725b1f851cc27a77.jpg" type="image/jpeg" length="35908"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/leto/</guid>
+  <author>Александра Лисица</author>
+  <title>Психолог предупредила москвичей об эффекте отложенного лета</title>
+  <link>https://lenta.ru/news/2023/06/07/leto/</link>
+  <description>
+    <![CDATA[У москвичей может возникнуть ощущение упущенного отдыха и «отложенного лета» из-за прохладной и дождливой погоды в начале июня, предупредила психолог Елизавета Кучерова. Чтобы избежать ситуативного снижения настроения и ощущения разочарования, Кучерова посоветовала помнить о друзьях, хобби и сне.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/10/20230607104423538/pic_936f89d29a62bb097ea7c2005cdd38f4.jpg" type="image/jpeg" length="47081"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/africa_putin_spb/</guid>
+  <author>Семен Александров</author>
+  <title>Стала известна дата встречи Путина с африканской миссией по Украине</title>
+  <link>https://lenta.ru/news/2023/06/07/africa_putin_spb/</link>
+  <description>
+    <![CDATA[Встреча лидеров стран Африки и президента России Владимира Путина состоится 17 июня в Санкт-Петербурге. Об этом сообщает некоммерческая организация Brazzaville Foundation, которая занимается подготовкой мирной миссии. Он примет лидеров ЮАР, Коморских Островов, Республики Конго, Уганды, Сенегала и Замбии.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/20/20230607200535733/pic_04777ef899b42e3f7aba9f0886ce9d21.jpg" type="image/jpeg" length="26294"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/greece/</guid>
+  <author>Марина Черняк</author>
+  <title>В Греции соскучились по российским туристам</title>
+  <link>https://lenta.ru/news/2023/06/07/greece/</link>
+  <description>
+    <![CDATA[В Греции соскучились по российским туристам и ждут их на местных курортах. Об этом рассказал РИА Новости управляющий директор туроператора Tez Tour Греция Димитрис Харитидис. Он добавил, что российские туристы интересуются историей страны, ездят на экскурсии, ходят в таверны, занимаются шопингом.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607140543603/pic_6bd040a55d4825f7fe1f1a3da449a3e5.jpg" type="image/jpeg" length="29572"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/leo/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Стало известно о переходе Месси в клуб из США</title>
+  <link>https://lenta.ru/news/2023/06/07/leo/</link>
+  <description>
+    <![CDATA[Журналист Фабрицио Романо заявил о переходе аргентинского нападающего Лионеля Месси в клуб из США «Интер Майами». О переходе футболиста в клуб Главной лиги футбола (MLS) будет объявлено в течение нескольких часов. Командой владеет бывший футболист сборной Англии Дэвид Бекхэм. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607192408687/pic_a336b36bd615a68550be134ae8b65e1f.jpg" type="image/jpeg" length="17472"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/fbi/</guid>
+  <author>Олег Давыдов</author>
+  <title>Стало известно об участии ФБР в цензуре российских СМИ в американских соцсетях</title>
+  <link>https://lenta.ru/news/2023/06/07/fbi/</link>
+  <description>
+    <![CDATA[ФБР помогало Киеву цензурировать публикации российских СМИ, журналистов и политиков в Twitter, сообщил канадский писатель Аарон Матэ в своем блоге. По его словам, спецагент ФБР направил руководству соцсети письмо со списком аккаунтов, которые Служба безопасности Украины требовала удалить.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 20:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607195807660/pic_7e1bcadc635586270d69e09fb809eac8.jpg" type="image/jpeg" length="18582"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/dilerr/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Наркодилер сбросил сверток во время полицейской погони в российском городе</title>
+  <link>https://lenta.ru/news/2023/06/07/dilerr/</link>
+  <description>
+    <![CDATA[В Волгоградской области полицейские задержали наркодилера, сбросившего во время погони сверток с запрещенным веществом. В городе Краснослободске сотрудники Госавтоинспекции во время патрулирования решили остановить автомобиль Renault, однако водитель стал скрываться. Полицейские бросились за ним в погоню. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/13/20230607133947108/pic_ab61f39f54834af16f875e1ea7eca305.jpg" type="image/jpeg" length="26753"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/poroshnastup/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Порошенко заявил о начале контрнаступления в ближайшие часы</title>
+  <link>https://lenta.ru/news/2023/06/07/poroshnastup/</link>
+  <description>
+    <![CDATA[Бывший президент Украины Петр Порошенко заявил, что контрнаступление Вооруженных сил Украины начнется в течение нескольких часов, и даже не дней. Он также подчеркнул, что разрушение Каховской гидроэлектростанции (ГЭС) не остановит украинскую армию от начала активных военных действий.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607195328702/pic_b6d42f0ffb7643ac9ae8819e8f5f94fd.jpg" type="image/jpeg" length="18745"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/oon_ze/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Зеленский обрушился с критикой на ООН и Красный Крест</title>
+  <link>https://lenta.ru/news/2023/06/07/oon_ze/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский обрушился с критикой на ООН и Международный комитет Красного Креста (МККК) из-за их реакции на разрушение Каховской гидроэлектростанции (ГЭС) и последовавшего за ним наводнения. По словам главы государства, представители организаций не приехали в зону ЧП.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607194801943/pic_68b09ec76a61d32478cc549d536828d1.jpg" type="image/jpeg" length="22248"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/malysheva/</guid>
+  <author>Евгения Наумова</author>
+  <title>Малышева назвала главную угрозу для здоровья летом</title>
+  <link>https://lenta.ru/news/2023/06/07/malysheva/</link>
+  <description>
+    <![CDATA[Врач-терапевт, доктор медицинских наук и телеведущая Елена Малышева и ее соведущий, кардиолог Герман Гандельман, назвали тромбообразование главной угрозой для здоровья летом. В эфире программы «Жить здорово!» на Первом канале специалисты рассказали, какую опасность несут тромбы и как уберечь себя от них.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607161100550/pic_914e1176c6c0aaf81e672d51bf1b7c0b.jpg" type="image/jpeg" length="18726"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/arxiv/</guid>
+  <author>Марк Леонов</author>
+  <title>ЛДПР нашла архивное видео Жириновского со сравнением Ельцина и Путина</title>
+  <link>https://lenta.ru/news/2023/06/07/arxiv/</link>
+  <description>
+    <![CDATA[ЛДПР нашла архивное видео, на кадрах которого первый лидер партии Владимир Жириновский сравнивает политику последнего генсека ЦК КПСС Михаила Горбачева, первого президента России Бориса Ельцина и его преемника на этом посту — Владимира Путина. Кадры опубликованы на YouTube-канале LDPR-TV.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607191825012/pic_4067c0a3ade79c2bae6180b77910ae50.jpg" type="image/jpeg" length="21367"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ocenka/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>ООН решила провести оценку ситуации на Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/ocenka/</link>
+  <description>
+    <![CDATA[Сотрудники Управления ООН по координации гуманитарных вопросов (УКГВ), прибывшие в Херсон, проводят оценку ситуации с разрушением Каховской ГЭС. Об этом заявил представитель генерального секретаря ООН Стефан Дюжаррик. Также на месте присутствуют члены еще пяти агентств и неправительственных организаций.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607193816777/pic_c612bb62da0b222829d478e257d70b1b.jpg" type="image/jpeg" length="43975"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/les/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Заповедный лес в Херсонской области загорелся из-за обстрела ВСУ</title>
+  <link>https://lenta.ru/news/2023/06/07/les/</link>
+  <description>
+    <![CDATA[В Херсонской области из-за обстрела ВСУ загорелся заповедный лес на Кинбурнской косе. Об этом сообщили местные власти. В середине мая замглавы российской администрации Голопристанского муниципального округа Константин Тистол заявлял, что в результате обстрелов уничтожены 40 процентов заповедника.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607194640694/pic_c8e6831f5a5859b12ad5fd96135c562d.jpg" type="image/jpeg" length="15128"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/heidiklum/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Хайди Клум с дочерью снялись в откровенных образах</title>
+  <link>https://lenta.ru/news/2023/06/07/heidiklum/</link>
+  <description>
+    <![CDATA[Немецкая модель Хайди Клум и ее дочь Лени снялись в откровенных образах для журнала Super. На одном из размещенных кадров манекенщица предстала в черной сетчатой кофте на голое тело, украшенной стразами. На опубликованном фото она частично продемонстрировала обнаженную грудь и живот. В свою очередь Лени снялась топлес.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607185134436/pic_8f2c07b8bba5c9545a3307a07403f112.jpg" type="image/jpeg" length="27988"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/imperiatrica/</guid>
+  <author>Полина Кислицына</author>
+  <title>В российском поселке появился памятник Екатерине II с ошибкой</title>
+  <link>https://lenta.ru/news/2023/06/07/imperiatrica/</link>
+  <description>
+    <![CDATA[В Нижегородской области установили памятник Екатерине II с ошибкой. Внимание на происходящее в российском регионе обратили в Telegram-канале «Подъем». Бюст установили в поселке Васильсурск Воротынского района. Бюст установили в поселке Васильсурск Воротынского района в честь его 500-летия.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/13/20230607134810293/pic_9b0e37036cdab9358eb9be5dade26b99.jpg" type="image/jpeg" length="19263"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/reserve/</guid>
+  <author>Вячеслав Агапов</author>
+  <title>Международные резервы России сократились за месяц</title>
+  <link>https://lenta.ru/news/2023/06/07/reserve/</link>
+  <description>
+    <![CDATA[Международные резервы России за месяц снизились до 584,1 миллиарда долларов. Сокращение составило 1,95 процента, или 11,6 миллиарда долларов. Среди заблокированных за рубежом средств Центробанка находятся иностранная валюта, золотые резервы и прочие активы. При этом с начала 2023 года резервы выросли на 0,38 процента.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607191136806/pic_f82124871b1aeb2e17eb6d7623d43381.jpg" type="image/jpeg" length="30428"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/toilet_train/</guid>
+  <author>Антонина Черташ</author>
+  <title>Преступник сбежал от конвоиров через туалет движущегося поезда</title>
+  <link>https://lenta.ru/news/2023/06/07/toilet_train/</link>
+  <description>
+    <![CDATA[Мужчина из Индии после ареста смог сбежать от полиции через окно в туалете поезда. 28-летний Санджай Тапанкумар Яна и его коллега Саурабх Маити работали в Пуне ювелирами, украли золото у своего нанимателя и уехали из города. Яна сбежал в тот момент, когда полиция конвоировала его с коллегой обратно в Пуну.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/05/12/20230605120212435/pic_60d1ebf470563ecd3a6c621496c686bf.jpg" type="image/jpeg" length="24305"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/leleka_100/</guid>
+  <author>Никита Абрамов</author>
+  <title>В Курской области обезвредили украинский разведывательный дрон «Лелека-100»</title>
+  <link>https://lenta.ru/news/2023/06/07/leleka_100/</link>
+  <description>
+    <![CDATA[В Курской области российские пограничники обезвредили разведывательный дрон Вооруженных сил Украины (ВСУ) «Лелека-100». Об этом сообщил губернатор российского региона Роман Старовойт в своем Telegram-канале. Он добавил, что беспилотник удалось посадить на землю средствами радиоэлектронной борьбы.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607193708136/pic_eef26d57603dcb56ab50f22d49145da2.jpg" type="image/jpeg" length="33526"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/podbityediversanty/</guid>
+  <author>Владимир Шарапов</author>
+  <title>Бойцы спецназа обнаружили брошенный диверсантами танк в Белгородской области</title>
+  <link>https://lenta.ru/news/2023/06/07/podbityediversanty/</link>
+  <description>
+    <![CDATA[Бойцы спецназа обнаружили брошенный диверсантами танк Т-72 на границе в Белгородской области. Кроме того, в одной из засад Вооруженных сил Украины (ВСУ) российские силовики нашли американский ручной гранатомет и миниатюрные военные беспилотники Black Hornet стоимостью 50 тысяч долларов каждый. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607192728732/pic_8a3a4645d47ae25fcb1dfe3f98e31e2e.jpg" type="image/jpeg" length="37897"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kabachki/</guid>
+  <author>Александра Лисица</author>
+  <title>Диетолог разрешила есть некоторые кабачки с кожурой</title>
+  <link>https://lenta.ru/news/2023/06/07/kabachki/</link>
+  <description>
+    <![CDATA[Некоторые кабачки можно есть с кожурой, рассказала диетолог Елена Соломатина. По ее словам, молодые кабачки можно есть с кожурой и даже сырыми, как огурцы — ближе к кожуре овоща находится много витаминов и полезных элементов. При этом, подчеркнула она, стоит обращать внимание на то, где выращивался овощ.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/10/20230607104014653/pic_596aa334c39e4a769a6222c12270f7eb.jpg" type="image/jpeg" length="40328"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/nato_/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В НАТО заявили о планах долгосрочной модернизации ВСУ</title>
+  <link>https://lenta.ru/news/2023/06/07/nato_/</link>
+  <description>
+    <![CDATA[НАТО объявит о планах долгосрочной модернизации Вооруженных сил Украины (ВСУ) на саммите в Вильнюсе. Об этом заявила в среду постоянный представитель США при штаб-квартире НАТО в Брюсселе Джулианн Смит. По ее словам, Североатлантический альянс ищет способы расширения «практической поддержки» Украины.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607192248445/pic_61986193b2c7c1725fd5ecb477b4cc11.jpg" type="image/jpeg" length="35521"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/duduich/</guid>
+  <author>Мария Сметанина</author>
+  <title>Отчим Сапеги отреагировал на ее помилование</title>
+  <link>https://lenta.ru/news/2023/06/07/duduich/</link>
+  <description>
+    <![CDATA[Помилование осужденной на шесть лет в Белоруссии россиянки Софьи Сапеги стало большой неожиданностью для членов ее семьи. Об этом в разговоре с «Лентой.ру» рассказал ее отчим Сергей Дудич. Он поблагодарил всех, кто участвовал в процессе со стороны как России, так и Белоруссии.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607192537789/pic_8e627b7d46f32945563553e8792d3f7b.jpg" type="image/jpeg" length="31120"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/arnold_dad/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Шварценеггер рассказал о жестокости своего отца-нациста</title>
+  <link>https://lenta.ru/news/2023/06/07/arnold_dad/</link>
+  <description>
+    <![CDATA[75-летний американский актер, бывший губернатор штата Калифорния Арнольд Шварценеггер рассказал о жестоком детстве из-за отца-нациста. По слова артиста, его родитель страдал от проблем с психикой, избивал мать, а также не давал своим детям есть, если те не выполняли требуемые им обязанности. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607180550186/pic_6678621f35617d50fbb2cf18a331e9a0.jpg" type="image/jpeg" length="20216"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/otvetstvennyye/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Британии высказались об ответственных за разрушение Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/otvetstvennyye/</link>
+  <description>
+    <![CDATA[Премьер-министр Великобритании Риши Сунак заявил, что Лондон пока не может возложить ответственность на Москву за разрушение плотины Каховской ГЭС. Он заявил, что пока не готов сделать заявление о том, кто виновен в произошедшем. «Вы знаете, наши службы безопасности и военные работают над этим», — сказал Сунак.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/19/20230607191754837/pic_f3dcd598d17f3a580e13fde57981c89e.jpg" type="image/jpeg" length="17274"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/deficit/</guid>
+  <author>Дмитрий Воронин</author>
+  <title>В России исключили дефицит рыбы</title>
+  <link>https://lenta.ru/news/2023/06/07/deficit/</link>
+  <description>
+    <![CDATA[Дефицит рыбы в России исключен и в настоящее время, и в будущем, заявил глава Росрыболовства Илья Шестаков. Чиновник напомнил, что по итогам 2022 года коэффициент самообеспеченности рыбной продукцией превысил 150 процентов, что означает полное удовлетворение потребностей внутреннего рынка.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607184627558/pic_35983569c89f87a64b775ccc1be3d1c7.jpg" type="image/jpeg" length="33677"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/moskvich_prodal_avtomobilei/</guid>
+  <author>Мария Черкасова</author>
+  <title>«Москвич» раскрыл количество проданных автомобилей</title>
+  <link>https://lenta.ru/news/2023/06/07/moskvich_prodal_avtomobilei/</link>
+  <description>
+    <![CDATA[За первые полгода с начала производства московский завод «Москвич» реализовал 2,5 тысячи автомобилей. Больше всего «Москвичей 3» и электрокаров «Москвичей 3e» жители России купили в апреле и мае. По статистике, большей популярностью среди покупателей пользуется бензиновая версия кроссовера «Москвич 3».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607183547850/pic_335921ab22535fd0705b0b4f957a1a65.jpg" type="image/jpeg" length="32448"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ioc_iba/</guid>
+  <author>Анастасия Борисова</author>
+  <title>МОК рекомендовал отозвать признание IBA во главе с россиянином</title>
+  <link>https://lenta.ru/news/2023/06/07/ioc_iba/</link>
+  <description>
+    <![CDATA[Исполком Международного олимпийского комитета рекомендовал отозвать признание Международной ассоциации бокса (IBA), которую возглавляет россиянин Умар Кремлев. В МОК заявили, что решение основано на отчете по ситуации с IBA. В нем указано, что ассоциация не выполнила необходимые условия для восстановления членства.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607185424519/pic_0ef69489fef8c31d8720147281b7f822.jpg" type="image/jpeg" length="37325"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/handluggage/</guid>
+  <author>Марина Черняк</author>
+  <title>Раскрыты простые способы сэкономить место в ручной клади</title>
+  <link>https://lenta.ru/news/2023/06/07/handluggage/</link>
+  <description>
+    <![CDATA[Тревел-блогеры раскрыли простые способы сэкономить место в ручной клади. Они перечислены в статье издания Daily Mail. Том Бурле посоветовал перевозить жидкости в прозрачном пакете в верхней части ручной клади, а тяжелые предметы, наоборот, разместить внизу. Он добавил, что носки можно упаковать в запасную пару обуви.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607174811230/pic_82871c7074505b9bd6f7ec05768b7ea4.jpg" type="image/jpeg" length="34386"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/rublirazcvod/</guid>
+  <author>Владимир Шарапов</author>
+  <title>Обманувших семь тысяч россиян на 80 миллионов рублей аферистов задержали в Крыму</title>
+  <link>https://lenta.ru/news/2023/06/07/rublirazcvod/</link>
+  <description>
+    <![CDATA[В Крыму задержали группу мошенников, обманувших семь тысяч россиян на 80 миллионов рублей. Аферисты убеждали потерпевших в том, чтобы те купили у них БАДы, а затем связывались с ними под видом полицейских и говорили им, что добавки — поддельные. После этого они предлагали вернуть за них деньги.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607140733394/pic_ede005e31c2659b0aaff7191076ef2bf.jpg" type="image/jpeg" length="18631"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/gorchitsa_method/</guid>
+  <author>Нина Ташевская</author>
+  <title>Дачникам посоветовали бороться со слизнями с помощью горчицы</title>
+  <link>https://lenta.ru/news/2023/06/07/gorchitsa_method/</link>
+  <description>
+    <![CDATA[Бороться со слизнями на дачном участке можно с помощью горчицы. Об этом в разговоре с изданием «БелНовости» рассказала ландшафтный дизайнер Анастасия Коврижных. Эксперт уточнила, что у слизней достаточно деликатная кожа, поэтому их могут отпугнуть дорожки, посыпанные горчицей или перцем.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/13/20230607133332027/pic_0606d24763d69e3b764e23c782f47e13.jpg" type="image/jpeg" length="48482"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/rolexstormie/</guid>
+  <author>Майя Пономаренко</author>
+  <title>Кайли Дженнер похвасталась часами Rolex пятилетней дочери за миллионы рублей</title>
+  <link>https://lenta.ru/news/2023/06/07/rolexstormie/</link>
+  <description>
+    <![CDATA[Американская телезвезда Кайли Дженнер похвасталась роскошными часами пятилетней дочери Сторми. На размещенных кадрах модель в белом кроп-топе сидит в автомобиле, демонстрируя зрителям свои личные вещи, среди которых оказались золотые часы Rolex стоимостью 40 тысяч долларов (3,3 миллиона рублей).]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607150741439/pic_7c02f9a6130d6cb6e222214629827478.jpg" type="image/jpeg" length="23810"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/izvlecheniye_urokov/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В США заявили об извлечении уроков из боев на Украине</title>
+  <link>https://lenta.ru/news/2023/06/07/izvlecheniye_urokov/</link>
+  <description>
+    <![CDATA[Начальник штаба Военно-воздушных сил (ВВС) США Чарльз Браун заявил, что Министерство обороны страны извлекает уроки при анализе боевых действий на Украине. Соответствующее заявление он сделал во время видеосеминара американского Института аэрокосмических исследований Митчелла.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607184325901/pic_61ed3a73c41fef6b8b6427a734027009.jpg" type="image/jpeg" length="31235"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kostenko_msc/</guid>
+  <author>Нина Ташевская</author>
+  <title>Жена Дмитрия Тарасова купила квартиру</title>
+  <link>https://lenta.ru/news/2023/06/07/kostenko_msc/</link>
+  <description>
+    <![CDATA[Вторая вице-мисс Россия-2014, жена футболиста Дмитрия Тарасова Анастасия Костенко купила квартиру в Москве. Модель опубликовала видео, на котором заходит в свое новое жилье. Помещение еще не отделано, там предстоит делать ремонт. По словам Костенко, она мечтала о покупке собственной недвижимости несколько лет.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607171230617/pic_4c479c79ed4c340db2e6a2516291a039.jpg" type="image/jpeg" length="22161"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/pd100/</guid>
+  <author>Даниил Иринин</author>
+  <title>Российский спецназ захватил «Черного шершня» у ВСУ</title>
+  <link>https://lenta.ru/news/2023/06/07/pd100/</link>
+  <description>
+    <![CDATA[Бойцы второй бригады специального назначения Вооруженных сил России захватили комплекс с микробеспилотниками PD-100 Black Hornet Nano («Черный шершень») у Вооруженных сил Украины (ВСУ), пишет Telegram-канал «Старше Эдды». Этот дрон считается самым миниатюрным военным беспилотником.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607185317773/pic_1b137da5dcfc6c508a978e4b1c4c0a0c.jpg" type="image/jpeg" length="37012"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/visionpro/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>Появился первый обзор очков дополненной реальности Apple</title>
+  <link>https://lenta.ru/news/2023/06/07/visionpro/</link>
+  <description>
+    <![CDATA[Главный редактор IT-портала The Verge Нилай Патель одним из первых ознакомился с очками дополненной реальности Apple. Нилай Патель признался, что два 4К-экрана показались ему очень яркими и четкими: мужчина комфортно мог читать текст в браузере Safari. Также ему удалось посмотреть «Аватар» в 3D.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 19:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607124042795/pic_33e64a1d358960688000a0218a33bb86.jpg" type="image/jpeg" length="29269"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/sapegabel/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Сапега покинула Белоруссию</title>
+  <link>https://lenta.ru/news/2023/06/07/sapegabel/</link>
+  <description>
+    <![CDATA[Адвокат Софьи Сапеги Антон Гашинский сообщил, что россиянка покинула территорию Белоруссии. Он рассказал, что Сапега отправилась к своему отцу в Российскую Федерацию, и добавил, что шансы на освобождение девушки были небольшими. «Слава богу, что все получилось», — сказал адвокат.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607185443916/pic_34c5a138e8e8280c8a03e7ecb5bfd364.jpg" type="image/jpeg" length="22763"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/smi/</guid>
+  <author>Олег Давыдов</author>
+  <title>Украинское СМИ выдало фото девятилетней давности за ЧП на Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/smi/</link>
+  <description>
+    <![CDATA[Украинское информагентство УНИАН выдало снимок девятилетней давности за ЧП на Каховской гидроэлектростанции (ГЭС). Ресурс опубликовал снимок, который был сделан в Сербии и размещен на сайте mgur 18 мая 2014 года. На фотографии мальчик держит щенка, которого спас во время наводнения. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607182041000/pic_dd248ae1d6eae3a4e5b4b361ada8a68c.jpg" type="image/jpeg" length="25425"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/smi/</guid>
+  <author>Олег Давыдов</author>
+  <title>Украинское СМИ выдало фото девятилетней давности за ЧП на Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/smi/</link>
+  <description>
+    <![CDATA[Украинское информагентство УНИАН выдало снимок девятилетней давности за ЧП на Каховской гидроэлектростанции (ГЭС). Ресурс опубликовал снимок, который был сделан в Сербии и размещен на сайте mgur 18 мая 2014 года. На фотографии мальчик держит щенка, которого спас во время наводнения. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607182041000/pic_dd248ae1d6eae3a4e5b4b361ada8a68c.jpg" type="image/jpeg" length="25425"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/nato_plan/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>НАТО утвердит план по защите «каждого дюйма» территории альянса</title>
+  <link>https://lenta.ru/news/2023/06/07/nato_plan/</link>
+  <description>
+    <![CDATA[НАТО утвердит на предстоящем саммите в Вильнюсе новые региональные планы по обороне. Об этом заявила постоянный представитель США при штаб-квартире альянса в Брюсселе Джулианн Смит. По ее словам, у альянса будут разработаны планы защищать каждый дюйм территории стран НАТО. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607184934620/pic_2766d195a0dbcc83de25111b8afdd4dc.jpg" type="image/jpeg" length="36935"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/riko/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Стало известно о состоянии госпитализированного футболиста ПСЖ</title>
+  <link>https://lenta.ru/news/2023/06/07/riko/</link>
+  <description>
+    <![CDATA[Врачи сообщили о состоянии вратаря французского ПСЖ Серхио Рико, госпитализированного после падения с лошади. Состояние 29-летнего испанского футболиста нормализовалось. Медики полностью прекратили давать Рико успокоительные препараты. При этом уточняется, что его состояние остается тяжелым. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607175427424/pic_4eab483f0d32a135096e9253ebd5be4f.jpg" type="image/jpeg" length="18244"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/starenie/</guid>
+  <author>Екатерина Улитина</author>
+  <title>Россиянам назвали ускоряющие старение продукты</title>
+  <link>https://lenta.ru/news/2023/06/07/starenie/</link>
+  <description>
+    <![CDATA[Употребление пастеризованного молока, а также сладких, соленых и обработанных продуктов может ускорить процесс старения, предупредила врач-эндокринолог, диетолог Эльвина Бинатова. По ее мнению, пользу организму приносит натуральная молочная продукция с высоким процентом жирности.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607142655159/pic_b7296abb91ec10533ddbcf3baa7154ad.jpg" type="image/jpeg" length="25853"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/let/</guid>
+  <author>Зарина Дзагоева</author>
+  <title>Путешественник оставил жену на 10 лет и объездил все страны мира без перелетов</title>
+  <link>https://lenta.ru/news/2023/06/07/let/</link>
+  <description>
+    <![CDATA[Путешественник оставил работу и жену на 10 лет и объездил все страны мира, не пользуясь самолетами. 44-летний Тор Педерсен (Thor Pedersen) из Дании отправился в дорогу в 2013 году. Он предполагал, что его идея будет осуществлена в течение четырех лет, однако план часто приходилось корректировать. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607160009611/pic_2fc087344e43034166614737363f2af4.jpg" type="image/jpeg" length="27542"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/stoltenberg_kontrnastup/</guid>
+  <author>Семен Александров</author>
+  <title>Столтенберг заявил о достаточном вооружении ВСУ для контрнаступления</title>
+  <link>https://lenta.ru/news/2023/06/07/stoltenberg_kontrnastup/</link>
+  <description>
+    <![CDATA[Переданного Киеву вооружения достаточно для проведения наступательной операции Вооруженных сил Украины. Об этом заявил генеральный секретарь НАТО Йенс Столтенберг. Он также отметил, что рано говорить про исход саммита относительно этого вопроса, но все союзники согласны с тем, что «двери НАТО остаются открытыми».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607184151881/pic_738427bcdee31c46c440765eecbb572f.jpg" type="image/jpeg" length="20059"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/birthdaydress/</guid>
+  <author>Карина Черных</author>
+  <title>Глюкоза показала фото в откровенном платье в честь 37-летия</title>
+  <link>https://lenta.ru/news/2023/06/07/birthdaydress/</link>
+  <description>
+    <![CDATA[Российская поп-исполнительница Наталья Чистякова-Ионова, выступающая под псевдонимом Глюкоза, показала откровенные фото в честь 37-летия. На размещенных снимках певица предстала в асимметричном коричневом мини-платье, которое облегало ее тело и обнажало спину и часть груди. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607182624145/pic_125c9de5c300ea084c1525a8c0ae1e23.jpg" type="image/jpeg" length="29277"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/most/</guid>
+  <author>Александра Качан</author>
+  <title>Мост из фильма «Любовь и голуби» почти полностью разрушился</title>
+  <link>https://lenta.ru/news/2023/06/07/most/</link>
+  <description>
+    <![CDATA[Жители поселка Пиндуши в Карелии пожаловались на состояние моста из фильма «Любовь и голуби». Конструкция оказалась почти полностью разрушенной. Недовольные обратились к властям с вопросом о содержании. Глава Пиндушского городского поселения Сергей Гордеев заявил, что на ремонт моста нет средств.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607173508188/pic_2c536ab09803b7ccf289cc3c5ac1cbe1.jpg" type="image/jpeg" length="33870"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/posledstviya/</guid>
+  <author>Никита Абрамов</author>
+  <title>Путин поручил организовать помощь людям в зоне затопления в Херсонской области</title>
+  <link>https://lenta.ru/news/2023/06/07/posledstviya/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин поручил главе МЧС России Александру Куренкову организовать помощь людям, находящимся в зоне затопления в Херсонской области после прорыва Каховской гидроэлектростанции (ГЭС). Об этом сообщил пресс-секретарь главы государства Дмитрий Песков.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607183720652/pic_2d117bbaaa0e77fd61a0c359c1653d7d.jpg" type="image/jpeg" length="44259"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/herskon/</guid>
+  <author>Екатерина Власова</author>
+  <title>Полицейские нашли в доме 60-летнего жителя Херсонской области 187 кустов конопли</title>
+  <link>https://lenta.ru/news/2023/06/07/herskon/</link>
+  <description>
+    <![CDATA[В Херсонской области полицейские обнаружили в доме 60-летнего местного жителя коноплю и алкоголь. Cиловики пришли в дом фигуранта в село Малые Копани Голопристанского района. На приусадебной территории они заметили запрещенное растение. Всего там было 187 кустов. Рядом с домом правоохранители нашли магазин фигуранта.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607122820437/pic_9b3ac1eac8914c23917dd0505f636ab2.jpg" type="image/jpeg" length="34408"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/v_rossii_predlozhili/</guid>
+  <author>Мария Черкасова</author>
+  <title>В России предложили ввести минимальную цену на пиво</title>
+  <link>https://lenta.ru/news/2023/06/07/v_rossii_predlozhili/</link>
+  <description>
+    <![CDATA[Союз российских пивоваров заявил, что выступает за разработку комплексных решений проблемы суррогатных слабоалкогольных напитков. В частности, ценовую привлекательность алкогольных суррогатов для покупателей можно снизить введением минимальной розничной цены (МРЦ) на пиво, отметили там.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607173338294/pic_24c14608742154c7df2061d22fa65b4d.jpg" type="image/jpeg" length="27380"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/pomilovanie/</guid>
+  <author>Алан Босиков</author>
+  <title>Раскрыты детали помилования Сапеги</title>
+  <link>https://lenta.ru/news/2023/06/07/pomilovanie/</link>
+  <description>
+    <![CDATA[Губернатор Приморского края Олег Кожемяко заявил, что осужденную в Белоруссии россиянку Софью Сапегу помиловали «по нашему обращению». «Она на свободе после моего обращения к Президенту Республики Беларусь Александру Григорьевичу Лукашенко», — написал губернатор. О помиловании Сапеги стало известно 7 июня. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607182756028/pic_1d6ba3eabd2ac5d4ba50b454a0056dad.jpg" type="image/jpeg" length="34865"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/nato_ukraine_membership/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Столтенберг оценил перспективы членства Украины в НАТО после саммита альянса</title>
+  <link>https://lenta.ru/news/2023/06/07/nato_ukraine_membership/</link>
+  <description>
+    <![CDATA[На данный момент преждевременно говорить об исходе саммита НАТО в Вильнюсе по вопросу членства Украины в альянсе. Так оценил перспективы вступления Киева генеральный секретарь организации Йенс Столтенберг. Он подчеркнул, что все страны-члены альянса согласны с тем, что Украина станет членом Североатлантического блока.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607182225974/pic_85cf42f2d4252d5e9e610daea92afee7.jpg" type="image/jpeg" length="32799"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/dom/</guid>
+  <author>Дмитрий Воронин</author>
+  <title>Раскрыта судьба дома из «Что? Где? Когда?» после разрушения Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/dom/</link>
+  <description>
+    <![CDATA[Наиболее известный дом Новой Каховки, про который в 2001 году задавали вопрос знатокам из «Что? Где? Когда?», после подрыва ГЭС не затоплен. Об этом со ссылкой на жителей Херсонской области сообщает RT. На стене дома кирпичом выложены слова из детской песни «Пусть всегда будет солнце».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607175004246/pic_8affb7cbdb43b01e0e3d5bcaf72667ed.jpg" type="image/jpeg" length="21163"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/apple_chatgpt/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>В Apple прокомментировали популярность ChatGPT</title>
+  <link>https://lenta.ru/news/2023/06/07/apple_chatgpt/</link>
+  <description>
+    <![CDATA[В компании Apple внимательно следят за развитием искусственного интеллекта (ИИ). Глава Apple заявил, что лично пользуется чат-ботом ChatGPT и «пребывает в восторге» от решений, которые может предложить этот инструмент. Кук также подчеркнул, что Apple активно интегрирует искусственный интеллект в свои продукты.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607122215851/pic_ab5c013c985b8b86ce9d7d8d7ddcd394.jpg" type="image/jpeg" length="19624"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/nalyso/</guid>
+  <author>Мария Большакова</author>
+  <title>Стример побрился налысо в прямом эфире и сделал неприятное открытие</title>
+  <link>https://lenta.ru/news/2023/06/07/nalyso/</link>
+  <description>
+    <![CDATA[Twich-стример под ником Curtoss побрился налысо в прямом эфире за крупное пожертвование и обнаружил, что на голове расположилась внушительная вмятина от одного часто используемого геймерами аксессуара. Фрагмент видео с бурной реакцией блогера позже смонтировали в отдельный клип, который можно найти на платформе. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607123930041/pic_c43d35ee8af12e381dd6a77794e1f29f.jpg" type="image/jpeg" length="18507"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/mrs_russia/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Победительницу конкурса «Миссис Россия — 2023» атаковали хейтеры. Кто она и что возмутило зрителей конкурса?</title>
+  <link>https://lenta.ru/news/2023/06/07/mrs_russia/</link>
+  <description>
+    <![CDATA[Победительница конкурса «Миссис Россия — 2023» опровергла обвинения в использовании пластической хирургии. Она заявила, что ее внешность — результат физических тренировок и правильного питания. Женщина стала мишенью критики после того, как пользователи сравнили ее фотографии в личном блоге и во время награждения.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607162709601/pic_1e5639b6c6e285f6acd05ecc88e13b04.jpg" type="image/jpeg" length="31436"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/poisoned_gas/</guid>
+  <author>Алан Босиков</author>
+  <title>В Подмосковье детский медцентр забросали гранатами с ядовитым газом</title>
+  <link>https://lenta.ru/news/2023/06/07/poisoned_gas/</link>
+  <description>
+    <![CDATA[В подмосковном Одинцове неизвестные забросали детский медицинский центр дымовыми гранатами, которые применяют во время боевых действий, сообщает Mash. Содержащийся в гранатах дым ядовит, дышать им вредно. Перед этим охранники учреждения услышали звук подъезжающего автомобиля и взрыв.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607181033082/pic_d38a335fdde0bd13b91680aae091b695.jpg" type="image/jpeg" length="36677"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/sapega/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Лукашенко помиловал россиянку Сапегу</title>
+  <link>https://lenta.ru/news/2023/06/07/sapega/</link>
+  <description>
+    <![CDATA[Президент Белоруссии Александр Лукашенко помиловал осужденную в республике россиянку Софью Сапегу. Сообщается, что девушку передали делегации Приморского края, которую возглавил губернатор Олег Кожемяко. Сапега поблагодарила главу государства за помилование, назвав его «подарком» для нее и ее семьи.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607181658613/pic_857cf924363d2b2353c4760eb582b5a9.jpg" type="image/jpeg" length="38218"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/slava/</guid>
+  <author>Александра Качан</author>
+  <title>Певица Слава получила ключи от новой квартиры в Москве</title>
+  <link>https://lenta.ru/news/2023/06/07/slava/</link>
+  <description>
+    <![CDATA[Российская поп-певица Слава купила квартиру в Москве. Певица получила ключи от нового жилья и показала вид на Москву-реку из панорамных окон. Объект располагается в новостройке в центре города. Славе предстоит сделать в новом жилье ремонт — квартира с черновой отделкой. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607140308100/pic_dbc0ab1bbca8d30e3f85debd7fbcd7c1.jpg" type="image/jpeg" length="18664"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/volumecolor/</guid>
+  <author>Мария Винар</author>
+  <title>Россиянкам назвали придающее объем волосам окрашивание</title>
+  <link>https://lenta.ru/news/2023/06/07/volumecolor/</link>
+  <description>
+    <![CDATA[Тренер-колорист международного уровня Татьяна Лисина назвала россиянкам придающее объем волосам окрашивание. По мнению эксперта, обладательницам редких прядей стоит присмотреться к широкому мелированию. При этом специалистка отметила, что не стоит использовать в окрашивании сильные цветовые контрасты.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607174602165/pic_4fb547dac5b725dbebb3d3fa112b919b.jpg" type="image/jpeg" length="22880"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/motocick/</guid>
+  <author>Екатерина Власова</author>
+  <title>Мотоциклист ударил сотрудника ГИБДД кулаком по лицу и получил год колонии</title>
+  <link>https://lenta.ru/news/2023/06/07/motocick/</link>
+  <description>
+    <![CDATA[В Белгородской области суд приговорил к одному году лишения свободы 56-летнего местного жителя за нападение на полицейского. Вечером 9 июля 2022 года инспектор ДПС остановил мотоцикл, так как водитель был без шлема и пьян. Для помощи в задержании приехали сотрудники дорожно-патрульной службы ГИБДД УМВД России. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152756901/pic_0901dca6c601af3b8aa7447587e9fef3.jpg" type="image/jpeg" length="29591"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/terobr/</guid>
+  <author>Зураб Дарахвелидзе</author>
+  <title>В Госдуме захотели вооружить дружинников на границе</title>
+  <link>https://lenta.ru/news/2023/06/07/terobr/</link>
+  <description>
+    <![CDATA[В Госдуме захотели дать отрядам территориальной обороны приграничных регионов России право на использование стрелкового оружия. О подготовке соответствующих поправок в законодательство заявил лидер СРЗП Сергей Миронов. Речь идет об отрядах дружинников, созданных по решению региональных властей.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607180736378/pic_cf4adb4f78f48c112737dfae5dd8c48a.jpg" type="image/jpeg" length="38256"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/podderzhka/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Россия выразила признательность Африке за поддержку</title>
+  <link>https://lenta.ru/news/2023/06/07/podderzhka/</link>
+  <description>
+    <![CDATA[Москва признательна странам Африки за неприсоединение к кампании против России и сбалансированную позицию. Об этом заявил глава МИД России Сергей Лавров. По словам министра, укрепление позиции России и Африки «как центров многополярного мира» открывает новые возможности для развития. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607180452282/pic_a4ea1aea66d4435174e4ee7339f6536b.jpg" type="image/jpeg" length="16617"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/mid_ua/</guid>
+  <author>Алевтина Запольская</author>
+  <title>В России обвинили Украину в планировании провокации с ядерным топливом</title>
+  <link>https://lenta.ru/news/2023/06/07/mid_ua/</link>
+  <description>
+    <![CDATA[На фоне военных неудач власти Украины рассматривают возможность подрыва в Харькове хранилища с отработавшим ядерным топливом. Об этом во время брифинга заявила официальный представитель МИД России Мария Захарова. По ее словам, после такого шага Киев планирует обвинить Москву в нанесении ракетного удара по хранилищу.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607174956056/pic_57f04f08fa8eb7a2bb87a1ca74fde2ec.jpg" type="image/jpeg" length="23339"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/zaharova_zapad_konec/</guid>
+  <author>Семен Александров</author>
+  <title>Захарова назвала возможные поставки Западом ядерного оружия Киеву концом всему</title>
+  <link>https://lenta.ru/news/2023/06/07/zaharova_zapad_konec/</link>
+  <description>
+    <![CDATA[Возможные поставки Западом ядерного оружия Киеву приведут к «концу всему». Обеспокоенность выразила официальный представитель МИД России Мария Захарова. Дипломат отметила, что такое развитие событий маловероятно, если на Западе все еще присутствует «логика самосохранения».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607174003838/pic_44a1c3471d97fff08c92d7e05bf8bf44.jpg" type="image/jpeg" length="30523"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/lvovaero/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На Украине допустили частичное открытие воздушного пространства</title>
+  <link>https://lenta.ru/news/2023/06/07/lvovaero/</link>
+  <description>
+    <![CDATA[Глава Львовской областной военной администрации (ОВА) Максим Козицкий допустил открытие в регионе воздушного пространства при содействии Евросоюза (ЕС). По его словам, вопрос открытия аэропорта во Львове был поднят на подписании соглашения о присоединении Украины к программе Евросоюза «Механизм Соединения Европы».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607175223869/pic_3899a0f8ab9af24584ec1517c3bf4d63.jpg" type="image/jpeg" length="44002"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/polandcourt/</guid>
+  <author>Александр Слабиев</author>
+  <title>Польша проиграла в суде Евросоюзу</title>
+  <link>https://lenta.ru/news/2023/06/07/polandcourt/</link>
+  <description>
+    <![CDATA[Европейский суд признал Варшаву виновной в нарушении прав граждан. По его мнению, после судебной реформы польские власти имеют слишком большое влияние на судей, поскольку могут назначать и увольнять их. В решении говорится, что страны-члены ЕС должны воздерживаться от принятия законов, увеличивающих зависимость судей.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 18:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607163056445/pic_d650960b4d5596bbd69ee5447253084d.jpg" type="image/jpeg" length="49530"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/radiacia_krym/</guid>
+  <author>Полина Кислицына</author>
+  <title>Угрозу повышения уровня радиации в Крыму после разрушения Каховской ГЭС оценили</title>
+  <link>https://lenta.ru/news/2023/06/07/radiacia_krym/</link>
+  <description>
+    <![CDATA[Угроза сильного повышения уровня радиации после подрыва Каховской ГЭС в Крыму отсутствует. Ситуацию в регионе оценил начальник экспедиций по Северо-Крымскому каналу Игорь Мосейченко. Он объяснил, что обедненный уран — очень тяжелый металл, перенос частиц которого водой на дальние расстояния достаточно затруднителен.<br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607171036872/pic_ca28b6a8b490ec1bf3ae7e4367ff0c30.jpg" type="image/jpeg" length="28945"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/spasitel/</guid>
+  <author>Евгения Куликова</author>
+  <title>Раскрыта личность спасшего школьницу из горящего авто под Москвой мужчины</title>
+  <link>https://lenta.ru/news/2023/06/07/spasitel/</link>
+  <description>
+    <![CDATA[Спасшим 11-летнюю школьницу из горящего закрытого автомобиля оказался Алексей Юдаев. Знакомые называют его добрым и отзывчивым человеком. По их словам, он выпивает, но немного. «После работы пивка. Но зарабатывает мало. Он отходы утилизирует: ездят по городу, у магазинов коробки собирают», — рассказал друг Юдаева.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607174853542/pic_049840fd9f6b058e2d1a33bb1a503443.jpg" type="image/jpeg" length="12697"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kitayskaya_bronetekhnika/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Чеченские подразделения получили на вооружение китайские бронеавтомобили</title>
+  <link>https://lenta.ru/news/2023/06/07/kitayskaya_bronetekhnika/</link>
+  <description>
+    <![CDATA[Чеченские подразделения, участвующие в спецоперации, получили в свое распоряжение новую партию военной техники, которая включает 100 пикапов, бронетранспортеров, бронеавтомобилей и грузовиков. Об этом сообщил глава Чечни Рамзан Кадыров. Впервые на вооружении оказались китайские бронеавтомобили Tiger.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607173431734/pic_a7209d782b2d6e2d10cfa2f43dfd82cc.jpg" type="image/jpeg" length="31831"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kaziyy/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Участник полицейской ОПГ предстанет перед российским судом за вымогательство</title>
+  <link>https://lenta.ru/news/2023/06/07/kaziyy/</link>
+  <description>
+    <![CDATA[Завершено расследование уголовного дела участника организованной преступной группы, действовавшей на территории Ставропольского края под руководством бывшего командира отдельного батальона патрульно-постовой службы ОМВД России по Пятигорску Николая Дмитриенко. Фигурант дела Кахарер Кация предстанет перед судом.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607161437812/pic_c59f4a0ec1b41a6ecac0d824fbe3f6c7.jpg" type="image/jpeg" length="21072"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/magadaan/</guid>
+  <author>Фариза Бацазова</author>
+  <title>Застрявшим в Магадане иностранцам придется спать на полу еще одну ночь</title>
+  <link>https://lenta.ru/news/2023/06/07/magadaan/</link>
+  <description>
+    <![CDATA[Застрявшие в Магадане иностранцы улетят в США ориентировочно 8 июня. Об этом пишет издание «Магаданская правда». Таким образом, пассажирам рейса Air India, летевшим из Дели в Сан-Франциско и экстренно приземлившимся в российском городе, придется спать на полу в спортзале местной школы еще одну ночь.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607172042992/pic_895070d2cb563cafdc820168b6568723.jpg" type="image/jpeg" length="44398"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/hersh/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Херш назвал взорвавших «Северные потоки» диверсантов недостаточно осведомленными</title>
+  <link>https://lenta.ru/news/2023/06/07/hersh/</link>
+  <description>
+    <![CDATA[Разведчики, которые участвовали в операции по подрыву «Северный потоков», вероятно, не были достаточно осведомлены о своей миссии, в частности о том, что трубопроводы наполнены российским газом. Об этом заявил американский журналист Сеймур Херш. Он предположил, что у участников операции могли быть слабые разведданые.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607173709500/pic_c82b1f1eff557d4066303bb807750b64.jpg" type="image/jpeg" length="35443"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kazaan/</guid>
+  <author>Фариза Бацазова</author>
+  <title>В Казани в День России соберут самый большой флаг страны из роз ручной работы</title>
+  <link>https://lenta.ru/news/2023/06/07/kazaan/</link>
+  <description>
+    <![CDATA[В День России, 12 июня, в Казани пройдет чемпионат по лепке цветов из полимерной глины. На нем мастерицы из Татарстана и других регионов установят два мировых рекорда. Участники соревнований соберут самый большой букет ландышей из полимерной глины и самый большой флаг России из роз ручной работы.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607175445144/pic_0e62383ff705e0b1d1957c903e16d88d.jpg" type="image/jpeg" length="37600"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/plen/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Дагестанских военных освободили из украинского плена</title>
+  <link>https://lenta.ru/news/2023/06/07/plen/</link>
+  <description>
+    <![CDATA[Несколько военных из Дагестана были освобождены из украинского плена. Об этом сообщил представитель республики в Хабаровске Бейдулах Исаев. По его словам, он лично обратился за помощью к депутату Госдумы Шамсаилу Саралиеву. О подробностях возвращения дагестанских военных из плена политик не сообщил.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/18/20230607180158637/pic_1ac887adbf2a9997aa4325846988643a.jpg" type="image/jpeg" length="32828"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/accusationsphotoshop/</guid>
+  <author>Карина Черных</author>
+  <title>Лариса Долина ответила на обвинения в ретуши фото фразой «настоящая абсолютно»</title>
+  <link>https://lenta.ru/news/2023/06/07/accusationsphotoshop/</link>
+  <description>
+    <![CDATA[Советская и российская эстрадная певица Лариса Долина ответила на обвинения в ретуши своих фото фразой «настоящая абсолютно». На размещенных кадрах 67-летняя исполнительница предстала в асимметричной зеленой кофте с вырезом и желтых брюках. При этом она уложила волосы волнами и сделала контрастный макияж.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607172835514/pic_e867940d8bc105c8158d0d1e63a50830.jpg" type="image/jpeg" length="32785"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/serbia/</guid>
+  <author>Кирилл Садовский</author>
+  <title>В России ответили на заявление Сербии о готовности сотрудничать с армией США</title>
+  <link>https://lenta.ru/news/2023/06/07/serbia/</link>
+  <description>
+    <![CDATA[Заявление президента Сербии Александра Вучича о готовности республики сотрудничать с армией США является политическим и не приведет к реальным действиям, заявил депутат Госдумы Алексей Чепа. В беседе с «Лентой.ру» парламентарий предположил, что пророссийская позиция невыгодна для внутренней обстановки в стране.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607174325879/pic_c71521bdf66288a415ba4062d927c556.jpg" type="image/jpeg" length="28725"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/smolov2/</guid>
+  <author>Анастасия Борисова</author>
+  <title>Смолов назвал комфортную для жизни сумму в месяц</title>
+  <link>https://lenta.ru/news/2023/06/07/smolov2/</link>
+  <description>
+    <![CDATA[Нападающий московского «Динамо» Федор Смолов назвал комфортную для жизни сумму в месяц. Футболист заявил, что ему будет достаточно 500 тысяч в месяц, если он не будет тратиться на дорогие продукты. «Это месяц жизни в Москве, рестораны, продукты, еда, зарплата домработницы, условно», — подчеркнул он.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607172442666/pic_84e28e3c709116feddea74698108ee0b.jpg" type="image/jpeg" length="27868"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/harry/</guid>
+  <author>Антонина Черташ</author>
+  <title>Принц Гарри отказался от своих обвинений из скандальных мемуаров</title>
+  <link>https://lenta.ru/news/2023/06/07/harry/</link>
+  <description>
+    <![CDATA[В ходе заседания против MGN, на котором принц Гарри впервые дал свидетельские показания, он признался, что одно из обвинений в его скандальных мемуарах «Запасной» не было подкреплено доказательствами. Он отказался от своих слов в отношении друга из Итонского колледжа, которого прежде обвинял в передаче информации.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607163634482/pic_0e0d576de995cdf0e26022ad3905f838.jpg" type="image/jpeg" length="21452"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/puh/</guid>
+  <author>Александра Лисица</author>
+  <title>Аллергикам назвали способы защититься от тополиного пуха</title>
+  <link>https://lenta.ru/news/2023/06/07/puh/</link>
+  <description>
+    <![CDATA[Тополиный пух сам по себе не является аллергеном, но способен механически раздражать слизистые и переносить аллергены, к примеру пыльцу, рассказала иммунолог-аллерголог Оксана Шабалина. Врач порекомендовала всем, кто страдает от тополиного пуха, реже появляться на улице в сухую, а тем более ветреную погоду.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:30:56 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/10/20230607103529304/pic_bffbc2a121d83e36398ade4862f90dcc.jpg" type="image/jpeg" length="44519"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/zaesotvet/</guid>
+  <author>Кристина Есикова</author>
+  <title>Россия пригрозила предельно жестким ответом на любые атаки Украины на ЗАЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/zaesotvet/</link>
+  <description>
+    <![CDATA[Россия предельно жестко ответит на любые атаки Украины на Запорожскую атомную электростанцию (ЗАЭС). Об этом заявила официальный представитель российского МИД Мария Захарова на брифинге. Она также подчеркнула, что Россия никогда не размещала на станции военную технику, предназначенную для наступательных действий.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607172535169/pic_af25149a263d895d879b3f6f63401f9b.jpg" type="image/jpeg" length="23381"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/moslwa_dlya_expatov/</guid>
+  <author>Мария Черкасова</author>
+  <title>Москва поднялась в рейтинге самых дорогих городов для экспатов</title>
+  <link>https://lenta.ru/news/2023/06/07/moslwa_dlya_expatov/</link>
+  <description>
+    <![CDATA[Москва заняла 25-е место в рейтинге самых дорогих городов мира для проживания иностранных специалистов, поднявшись на 37 позиций. Рейтинг был составлен компанией ECA International. Среди европейских городов российская столица по дороговизне жизни оказалась на шестом месте. <br /><br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607141535904/pic_2896eef38a2442ee14f255360b8937e1.jpg" type="image/jpeg" length="38538"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/shukshina_cardio/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Госпитализированной Лидии Федосеевой-Шукшиной установили электрокардиостимулятор</title>
+  <link>https://lenta.ru/news/2023/06/07/shukshina_cardio/</link>
+  <description>
+    <![CDATA[Госпитализированной после инфаркта головного мозга Лидии Федосеевой-Шукшиной установили электрокардиостимулятор. Сообщается, что такое решение врачи приняли, чтобы минимизировать риск нарушений в системе кровообращения. Федосеева-Шукшина находится в тяжелом состоянии, а ее сознание сильно угнетено. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607165813356/pic_c0cb25c1e927cff91c20394a738f58e5.jpg" type="image/jpeg" length="18883"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/pushges/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Пушилин объяснил подрыв Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/pushges/</link>
+  <description>
+    <![CDATA[Киев решился подорвать Каховскую гидроэлектростанцию (ГЭС), опасаясь наступления Вооруженных сил России. По словам врио главы Донецкой народной республики Дениса Пушилина, Украина совершила подрыв ГЭС, чтобы обезопасить себя на южном направлении фронта и получить возможность контрнаступления на других участках.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607170632560/pic_9a63d9bb239ac9fb255cc806282ad0b3.jpg" type="image/jpeg" length="35812"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/pot/</guid>
+  <author>Мария Винар</author>
+  <title>Блогерша показала способ избавиться от желтых пятен пота на белой одежде</title>
+  <link>https://lenta.ru/news/2023/06/07/pot/</link>
+  <description>
+    <![CDATA[Блогерша Анна с никнеймом @theannaedit показала способ избавиться от желтых пятен пота на белой одежде. Соответствующая публикация появилась на ее странице в TikTok. Инфлюэнсерша рассказала, что для этого она использует гель для мытья посуды. Она наносит продукт на одежду и стирает ее при температуре 40 градусов.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607161455435/pic_9f592944ecb971dcd194f6246dfb33ef.jpg" type="image/jpeg" length="17438"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/tumensud/</guid>
+  <author>Екатерина Власова</author>
+  <title>Мужчине дали два года условно за попытку заживо сжечь российского полицейского</title>
+  <link>https://lenta.ru/news/2023/06/07/tumensud/</link>
+  <description>
+    <![CDATA[В Тюменской области суд приговорил к двум годам лишения свободы условно Эдувардта Эйснера, напавшего на правоохранителя. Участковый совместно с сотрудниками газовой компании пришли в дом к фигуранту. Они потребовали его предоставить доступ к газоиспользующему оборудованию. Однако гражданин отказался и стал угрожать. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/09/20230607092835426/pic_fb064d3298db18d64ce76ba6ea92d6ba.jpg" type="image/jpeg" length="23641"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/sud/</guid>
+  <author>Вячеслав Агапов</author>
+  <title>Россияне решили подать в суд на европейские депозитарии за блокировку активов</title>
+  <link>https://lenta.ru/news/2023/06/07/sud/</link>
+  <description>
+    <![CDATA[Россияне готовят коллективный иск к европейским депозитариям Euroclear и Clearstream. Инвесторы рассчитывают, что решение российского суда подтолкнет европейских чиновников к действию: в идеальном сценарии регуляторы одобрят разблокировку средств, а истцы откажутся от претензий. <br />]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607164357248/pic_0b8926c695f1f8a546ee7b4862667fa5.jpg" type="image/jpeg" length="23715"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/putin_uar/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Путин обсудил с президентом ЮАР урегулирование конфликта на Украине</title>
+  <link>https://lenta.ru/news/2023/06/07/putin_uar/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин созвонился со своим коллегой из Южно-Африканской Республики (ЮАР) Сирилом Рамафозой. Они обсудили африканскую инициативу по способам урегулирования конфликта на Украине. Лидеры договорились, что Путин примет в ближайшее время делегацию ряда глав государств Африки.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607171821669/pic_71a7d63c820a78a44f4ade124644434f.jpg" type="image/jpeg" length="18300"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/zarazheniye/</guid>
+  <author>Полина Кислицына</author>
+  <title>Оценена угроза заражения воды из-за размытия кладбища после разрушения ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/zarazheniye/</link>
+  <description>
+    <![CDATA[Из-за подтопления, спровоцированного разрушением Каховской ГЭС, возможно распространение кишечных инфекций. Угрозу заражения воды из-за размытия кладбища оценил инфекционист Сергей Вознесенский, передают «Известия». Эксперт отметил, что сложившаяся в зоне затопления ситуация является очень напряженной.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607163109290/pic_fc272168cc6872624bc5680f6eaeaaf0.jpg" type="image/jpeg" length="43120"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/brooke/</guid>
+  <author>Олег Давыдов</author>
+  <title>Популярная порномодель рассказала об отношении матери к ее работе</title>
+  <link>https://lenta.ru/news/2023/06/07/brooke/</link>
+  <description>
+    <![CDATA[Популярная британская порномодель Элли Брук, выкладывающая откровенный контент на платформе OnlyFans, рассказала, как мать относится к ее работе. По словам звезды OnlyFans, родительница работает ее администратором. «Она работает за кулисами, она не делает ничего криминального», — уточнила она.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/11/20230607115400836/pic_7e566ff39370ca68038962a711bbc96f.jpg" type="image/jpeg" length="26060"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ges_nato/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Комиссия НАТО — Украина обсудит взрыв на Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/ges_nato/</link>
+  <description>
+    <![CDATA[В ходе заседания комиссии Украина — НАТО будет обсуждаться взрыв на Каховской ГЭС и экологические последствия этого инцидента. Об этом сообщил генеральный секретарь альянса Йенс Столтенберг в Twitter. Отмечается, что во время заседания будет присутствовать глава МИД Украины Дмитрий Кулеба.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/17/20230607170320973/pic_69c0a93bdcdc44e40312b113049de901.jpg" type="image/jpeg" length="39419"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/plans/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Влияние разрушения Каховской ГЭС на планы контрнаступления Украины оценили</title>
+  <link>https://lenta.ru/news/2023/06/07/plans/</link>
+  <description>
+    <![CDATA[Разрушение Каховской гидроэлектростанции (ГЭС) может заставить Украину скорректировать планы контрнаступления, считает военный эксперт Алексей Леонков. В разговоре с «Лентой.ру» он рассказал, как произошедшее на энергетическом объекте может повлиять на ход боевых действий.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607165852839/pic_83af6912e715bde98d22411ec2317202.jpg" type="image/jpeg" length="32471"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/perekhod/</guid>
+  <author>Дарья Коршунова</author>
+  <title>«Факел» обыграл «Енисей» в первом переходном матче</title>
+  <link>https://lenta.ru/news/2023/06/07/perekhod/</link>
+  <description>
+    <![CDATA[«Факел» обыграл «Енисей» в первом переходном матче за право выступать в Российской премьер-лиге (РПЛ). Встреча прошла в Красноярске и завершилась со счетом 1:0. Единственный мяч забил нападающий воронежцев Евгений Марков на 77-й минуте. «Факел» занял 14-е место в турнирной таблице РПЛ.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607165031482/pic_d5696965a8923a809f1a76db06319c2f.jpg" type="image/jpeg" length="42557"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/zapretoff/</guid>
+  <author>Кристина Есикова</author>
+  <title>В Эстонии захотели снять запрет на въезд россиян</title>
+  <link>https://lenta.ru/news/2023/06/07/zapretoff/</link>
+  <description>
+    <![CDATA[Евродепутат от Центристской партии Эстонии Яна Тоом направила в профильный комитет Европарламента петицию от жителей страны, которые призывают руководство Европейского союза убедить власти республики снять запрет на въезд в страну российских граждан для посещения близких родственников. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 17:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607164129452/pic_605d37c2dd2aaf30eadf5733a240bf7d.jpg" type="image/jpeg" length="35122"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/sudtvr/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Бывшему главному наркологу России продлили арест по делу о мошенничестве</title>
+  <link>https://lenta.ru/news/2023/06/07/sudtvr/</link>
+  <description>
+    <![CDATA[Тверской суд Москвы продлил домашний арест бывшему главному внештатному наркологу Минздрава России Евгению Брюну и его коллеге Владимиру Якушеву. По решению суда мера пресечения будет действовать до 3 августа, пока ведется расследование уголовного дела о мошенничестве в особо крупном размере.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607153438234/pic_ff8623c8597f3e380f5cc4511b81ddb6.jpg" type="image/jpeg" length="32181"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/samsung_fold/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>Samsung объявила дату выхода новых складных смартфонов</title>
+  <link>https://lenta.ru/news/2023/06/07/samsung_fold/</link>
+  <description>
+    <![CDATA[Южнокорейская компания Samsung объявила дату выхода следующего поколения складных смартфонов. В корпорации заявили, что анонс аппаратов Galaxy состоится в коцне июля. При этом в Samsung не стали уточнять, когда именно представят новые флагманы. Мероприятие Unpacked впервые состоится в Сеуле.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607120442829/pic_7ea44247c79448c36c8ba1c3f4b9c23d.jpg" type="image/jpeg" length="30845"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/weddingcolors/</guid>
+  <author>Мария Винар</author>
+  <title>Названы неподходящие цвета одежды для гостей на свадьбе</title>
+  <link>https://lenta.ru/news/2023/06/07/weddingcolors/</link>
+  <description>
+    <![CDATA[Редакторы Best Life совместно со стилистами назвали неподходящие цвета одежды для гостей на свадьбе. Так, эксперты призвали не одеваться на церемонию в неоновых и серебристых тонах. По их словам, это привлечет внимание к внешнему виду. При этом они отметили, что на свадьбах чаще всего преобладают оттенки розового. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607144109792/pic_cc31341a9692c9d5c3f6cc3bad7e49d2.jpg" type="image/jpeg" length="24992"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ammiak_danger/</guid>
+  <author>Нина Ташевская</author>
+  <title>Названы последствия выбросов аммиака</title>
+  <link>https://lenta.ru/news/2023/06/07/ammiak_danger/</link>
+  <description>
+    <![CDATA[Аммиачные выбросы в больших объемах могут в том числе вызвать удушье, поражение глаз и ожоги. Последствия выбросов этого химического соединения назвала доцент Института экологии РУДН Анна Курбатова, ее слова приводит News.ru. При попадании в воздух аммиак смешивается с ним.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607160421839/pic_9b7f62b7917df182bdad83a606445e8b.jpg" type="image/jpeg" length="32539"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/mid_davlenie/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>МИД России призвал желающих внести вклад в мир на Украине давить на Киев и Запад</title>
+  <link>https://lenta.ru/news/2023/06/07/mid_davlenie/</link>
+  <description>
+    <![CDATA[Страны, желающие внести вклад в мирное урегулирование на Украине, должны оказывать давление на Киев и Запад. Об этом заявила официальный представитель МИД России Мария Захарова. Дипломат подчеркнула, что западные страны и Украина «прервали переговорный процесс в апреле 2022 года».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607163316008/pic_75fadb6af9d0689d24b7be1757b23b02.jpg" type="image/jpeg" length="44190"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ukr_nato_kuleba/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Кулеба примет участие в заседании комиссии Украина — НАТО</title>
+  <link>https://lenta.ru/news/2023/06/07/ukr_nato_kuleba/</link>
+  <description>
+    <![CDATA[Министр иностранных дел Украины Дмитрий Кулеба примет участие в заседании комиссии Украина — НАТО, которое запланировано на 8 июня. Об этом сообщил генсек альянса Йенс Столтенберг. По его словам, глава МИД Украины присоединится к заседанию с послами стран-союзников виртуально.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607163932720/pic_78fa2bcba1541c72518a4a8f8b476310.jpg" type="image/jpeg" length="19906"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/bronerocket/</guid>
+  <author>Алевтина Запольская</author>
+  <title>В Минобороны показали кадры уничтожения украинской бронетехники ракетами</title>
+  <link>https://lenta.ru/news/2023/06/07/bronerocket/</link>
+  <description>
+    <![CDATA[Министерство обороны России показало кадры уничтожения двух единиц бронетехники Вооруженных сил Украины управляемыми авиационными ракетами на южнодонецком направлении. На соответствующем видео показаны авиаудары с борта вертолета, в результате которых были уничтожены две бронемашины ВСУ.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607163710569/pic_8be9cd3e69e08dffc472a87566e8a45a.jpg" type="image/jpeg" length="31985"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/gagarina_roman/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Стало известно о новом романе Полины Гагариной</title>
+  <link>https://lenta.ru/news/2023/06/07/gagarina_roman/</link>
+  <description>
+    <![CDATA[Стало известно о новом романе российской певицы Полины Гагариной. Сообщается, что 36-летняя исполнительница вступила в отношения с 35-летним танцором своей труппы Станиславом Миковым. Пару заметили, когда она прогуливалась по улице, державшись за руки. Миков работал с Гагариной на протяжении последних пяти лет. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:37:59 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607155243362/pic_673d409c042b05f6f2f19d3116ad7906.jpg" type="image/jpeg" length="30375"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/prestuplenie_kieva/</guid>
+  <author>Никита Абрамов</author>
+  <title>Путин назвал удар по Каховской ГЭС преступлением Киева</title>
+  <link>https://lenta.ru/news/2023/06/07/prestuplenie_kieva/</link>
+  <description>
+    <![CDATA[Удар по Каховской гидроэлектростанции (ГЭС) является преступлением, совершенным Киевом. Об этом заявил президент России Владимир Путин. Он констатировал, отметили в Кремле, что киевские власти совершают военные преступления, используют террористические методы, а также организуют диверсии на территории России. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607163759283/pic_195a467d31cbd064171b5f95878dd81b.jpg" type="image/jpeg" length="35777"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/sobaki/</guid>
+  <author>Марина Черняк</author>
+  <title>Собаки на взлетно-посадочной полосе сорвали посадку российского самолета</title>
+  <link>https://lenta.ru/news/2023/06/07/sobaki/</link>
+  <description>
+    <![CDATA[Летевший из села Кыры (Забайкальский край) самолет Ан-2 авиакомпании «Аэросервис» не смог приземлиться в международном аэропорту Читы из-за собак, гулявших по взлетно-посадочной полосе. Об этом сообщает Telegram-канал SHOT. По данным издания, российский самолет должен был приземлиться около восьми утра.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:32:51 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152554010/pic_7509e03fdd2f528642c6826d37de57fd.jpg" type="image/jpeg" length="22957"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/pozhar/</guid>
+  <author>Варвара Родикова</author>
+  <title>Сильный пожар после обстрела Шебекино ракетами из РСЗО «Град» попал на видео</title>
+  <link>https://lenta.ru/news/2023/06/07/pozhar/</link>
+  <description>
+    <![CDATA[Сильный пожар после обстрела Шебекино ракетами из реактивных систем залпового огня (РСЗО) «Град» попал на видео. На кадрах показаны густые клубы черного дыма, поднимающиеся над городом. Ранее губернатор российского приграничного региона сообщил, что ВСУ выпустили по Шебекино более 60 снарядов из РСЗО «Град».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607161855821/pic_dfac8d17f1617c7f5a4e1cef0220b47c.jpg" type="image/jpeg" length="23387"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/chislo/</guid>
+  <author>Евгения Куликова</author>
+  <title>Названо число затопленных после разрушения Каховской ГЭС населенных пунктов</title>
+  <link>https://lenta.ru/news/2023/06/07/chislo/</link>
+  <description>
+    <![CDATA[Из-за разрушения плотины Каховской гидроэлектростанции (ГЭС) в Херсонской области затоплению подверглись 36 населенных пунктов. Такое число назвал врио главы региона Владимир Сальдо. В Новокаховском городском округе в зоне подтопления оказались 11 населенных пунктов, еще 12 — в Голопристанском округе. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607162131089/pic_d49d234263c5b8955fee1d67cbaaa3f1.jpg" type="image/jpeg" length="41277"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/plus-sizeswimwear/</guid>
+  <author>Алина Гостева</author>
+  <title>Россиянкам с пышными формами назвали подходящие купальники</title>
+  <link>https://lenta.ru/news/2023/06/07/plus-sizeswimwear/</link>
+  <description>
+    <![CDATA[Стилистка и историк моды Яна Демченко назвала полным россиянкам подходящие купальники. Так, обладательницам пышных форм предпочтительно покупать изделия с широкими бретелями, акцент в которых сделан на области декольте. Кроме того, следует обратить внимание на материал купальника. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:21:26 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152328830/pic_9bc34c408f21dec5ee0bf670f4d6f5ca.jpg" type="image/jpeg" length="41592"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/poland_deportation/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Польша депортировала выдававшего себя за экс-сотрудника ФСБ россиянина</title>
+  <link>https://lenta.ru/news/2023/06/07/poland_deportation/</link>
+  <description>
+    <![CDATA[Власти Польши депортировали россиянина, выдававшего себя за экс-сотрудника контрразведки ФСБ России. Об этом сообщил пресс-секретарь министра-координатора спецслужб республики Станислав Жарин. Чиновник уточнил, что россиянина зовут Эмран Наврузбеков. Ему запретили пребывать в Польше и во всей Шенгенской зоне.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607162241983/pic_e68fb9631486a44d3c270ef5d7d600ca.jpg" type="image/jpeg" length="37063"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/putin_erdogan/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Эрдоган позвонил Путину и обсудил взрыв на Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/putin_erdogan/</link>
+  <description>
+    <![CDATA[Президент Турции Реджеп Тайип Эрдоган позвонил российскому коллеге Владимиру Путину и предложил создать международную комиссию для расследования взрыва на Каховской ГЭС. Отмечается, что в число экспертов могут войти представители России, Украины, ООН и других заинтересованных государств.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607161333792/pic_ee4eb9fdd8d74c8539fd69202b83373a.jpg" type="image/jpeg" length="25587"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/musua/</guid>
+  <author>Кристина Есикова</author>
+  <title>Киев обратился в МУС из-за разрушения Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/musua/</link>
+  <description>
+    <![CDATA[Генеральный прокурор Украины Андрей Костин обратился в Международный уголовный суд из-за частичного разрушения Каховской гидроэлектростанции. Об этом заявил советник генпрокурора Максим Попов. «Генеральный прокурор обратился с соответствующим документом в офис прокурора Международного уголовного суда», — сказал он. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607161211930/pic_ebc90109d7c2b63bb32509e92e8c14b5.jpg" type="image/jpeg" length="41966"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/bo/</guid>
+  <author>Иван Потапов</author>
+  <title>В Blue Origin рассказали о доходах</title>
+  <link>https://lenta.ru/news/2023/06/07/bo/</link>
+  <description>
+    <![CDATA[В настоящее время доходы Blue Origin составляют сотни миллионов долларов, компания располагает заказами на миллиарды долларов, заявил ее генеральный директор Боб Смит на мероприятии «Инвестиции в космос», организованном Financial Times. Об этом сообщает издание SpaceNews.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/10/20230607104054551/pic_9d69fe6b2a031005df5f9b3d5b138f1a.jpg" type="image/jpeg" length="17834"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/mldfrm/</guid>
+  <author>Григорий Шугаев</author>
+  <title>Политолог рассказала о готовности России к всеобъемлющему сотрудничеству с СНГ</title>
+  <link>https://lenta.ru/news/2023/06/07/mldfrm/</link>
+  <description>
+    <![CDATA[Россия по сей день поддерживает тесные связи со странами бывшего СССР, которые перекочевали в новые объединения, например, СНГ и ЕАЭС. Ведущая роль в подобных международных союзах помогает России находить новые точки соприкосновения для кооперации, в том числе в сфере работы с молодежью.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607161218188/pic_8c86ef22fa685d032480992f2d418070.jpg" type="image/jpeg" length="25407"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/planpshekov/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Захарова обвинила Польшу в планах уничтожить Россию</title>
+  <link>https://lenta.ru/news/2023/06/07/planpshekov/</link>
+  <description>
+    <![CDATA[Польша с помощью Украины намерена реализовать свои планы по уничтожению России как независимого государства, заявила официальный представитель МИД РФ Мария Захарова. «Польша стремится украинскими руками решить собственные геополитические задачи», — сказала российский дипломат.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607155913500/pic_fa3fc3e4f4d68b038d4de52b115e8a26.jpg" type="image/jpeg" length="21878"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/patrushevrezhim/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Патрушев призвал сменить режим на Украине</title>
+  <link>https://lenta.ru/news/2023/06/07/patrushevrezhim/</link>
+  <description>
+    <![CDATA[Секретарь Совбеза России Николай Патрушев призвал сменить действующий политический режим на Украине, придав стране нейтральный статус. «Вашингтон и Лондон создали киевский нацистский режим, который необходимо сменить, придав на практике Украине статус нейтрального государства», — заявил он.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607160004656/pic_235a66f9f42e012de7e0c6dd5cf906ba.jpg" type="image/jpeg" length="19455"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/danilov_kontrnastup/</guid>
+  <author>Георгий Нестеров</author>
+  <title>На Украине опровергли начало контрнаступления</title>
+  <link>https://lenta.ru/news/2023/06/07/danilov_kontrnastup/</link>
+  <description>
+    <![CDATA[Украина еще не начала запланированное контрнаступление. Об этом заявил секретарь Совета национальной безопасности и обороны республики Алексей Данилов. «Все это неправда. Когда все это начнется, это решат наши военные. Когда мы начнем контрнаступление, все об этом узнают, все это увидят», — сказал он.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/16/20230607160043126/pic_3d3987bbdd2a855865eb21e71249ad0b.jpg" type="image/jpeg" length="30439"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/childbirth/</guid>
+  <author>Фариза Бацазова</author>
+  <title>Летевший из Москвы самолет экстренно сел в Ташкенте из-за родов на борту</title>
+  <link>https://lenta.ru/news/2023/06/07/childbirth/</link>
+  <description>
+    <![CDATA[Летевший из Москвы в Наманган пассажирский лайнер сменил курс и вынужденно сел в другом узбекском городе. Об этом сообщили в пресс-службе компании Uzbekistan Airports. Инцидент произошел 7 июня с самолетом авиаперевозчика Uzbekistan Airways. Во время полета у одной из пассажирок рейса начались роды.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 16:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607155055395/pic_ffdd6ff664414c6b5c6508aae75f6dec.jpeg" type="image/jpeg" length="14269"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/argumentatsiya/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Польше пообещали ЕК аргументировать создание комиссии по «российскому влиянию»</title>
+  <link>https://lenta.ru/news/2023/06/07/argumentatsiya/</link>
+  <description>
+    <![CDATA[Представитель правительства Польши по европейским делам Шимон Шинковский пообещал, что Варшава даст Европейской комиссии аргументированный ответ на начатое против России официальное расследование. Ранее ЕК запустила процедуру нарушения из-за создания в Польше комиссии по расследованию «российского влияния».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607155148212/pic_c36055f2a8c89eb016f158b0ed486b42.jpg" type="image/jpeg" length="28403"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/boepripasyy/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Полицейские нашли автоматы Калашникова на дне оросительного канала под Херсоном</title>
+  <link>https://lenta.ru/news/2023/06/07/boepripasyy/</link>
+  <description>
+    <![CDATA[Под Херсоном возле села Владимиро-Ильиновка на дне оросительного канала полицейские нашли оружие и боеприпасы. Стражи порядка изъяли шесть автоматов Калашникова и 31 магазин к ним, на одном из них был маркировка в виде флага Украины. Также были найдены сигнальные ракеты и 14 штык-ножей.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/13/20230607133523046/pic_33498fc3d6e917b9868de9b73cac5674.webp" type="image/webp" length="23320"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/net-rabochih_ruk/</guid>
+  <author>Вячеслав Агапов</author>
+  <title>Нехватка рабочих рук поставила под угрозу развитие крупнейшей экономики Европы</title>
+  <link>https://lenta.ru/news/2023/06/07/net-rabochih_ruk/</link>
+  <description>
+    <![CDATA[Численность рабочей силы в Германии перестала расти. Без значительного притока мигрантов в ближайшие десять лет число работников сократится на три миллиона. Это подорвет экономический рост и разгонит инфляцию в стране. Проблему предлагают решить за счет пенсионеров или повышения производительности труда.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607144316692/pic_703327a7bad30c3e58e914f862034640.jpg" type="image/jpeg" length="29845"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ammoniapipeline/</guid>
+  <author>Геннадий Сходненский</author>
+  <title>Украинские диверсанты подорвали трубопровод с аммиаком в Харьковской области. Чем выброс химиката опасен для людей?</title>
+  <link>https://lenta.ru/news/2023/06/07/ammoniapipeline/</link>
+  <description>
+    <![CDATA[5 июня украинская ДРГ (диверсионно-разведывательная группа) подорвала аммиакопровод «Тольятти — Одесса». По сообщению ведомства, подрыв произошел около 21:00 в районе населенного пункта Масютовка Харьковской области. Отмечается, что в результате произошедшего российские военные не пострадали.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607153706270/pic_2deea098e9883fb3b6f6ea5ed001f60d.jpg" type="image/jpeg" length="21533"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kazan/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Объявлено место проведения Суперкубка России по футболу</title>
+  <link>https://lenta.ru/news/2023/06/07/kazan/</link>
+  <description>
+    <![CDATA[Казань стала местом проведения Суперкубка России по футболу. «Решение принято, Суперкубок России по футболу будет в Казани на "Ак Барс Арене"», — заявил министр спорта Татарстана Владимир Леонов. За трофей сразятся чемпион России сезона-2022/23 петербургский «Зенит» и обладатель Кубка страны. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607155130623/pic_beb1302f273b817405398be40b4bbf06.jpg" type="image/jpeg" length="39745"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/stupinooo/</guid>
+  <author>Анна Щербакова</author>
+  <title>Под Москвой мужчина вытащил школьницу из горящего авто и попал на видео</title>
+  <link>https://lenta.ru/news/2023/06/07/stupinooo/</link>
+  <description>
+    <![CDATA[Житель подмосковного Ступино вытащил 11-летнюю школьницу из горящего закрытого автомобиля. Действия мужчины попали на видео. На появившихся кадрах видно, как девочка пытается выбраться из машины, объятой пламенем. Ей на помощь приходит прохожий: мужчина разбивает окно и достает ребенка.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607153658080/pic_ec66218faed02865f7cf7c57da2523ea.jpg" type="image/jpeg" length="20146"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/eyebrowtattoo/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Россиянка сделала татуаж бровей и попала в больницу</title>
+  <link>https://lenta.ru/news/2023/06/07/eyebrowtattoo/</link>
+  <description>
+    <![CDATA[Россиянка сделала татуаж бровей и попала в больницу из-за неожиданных последствий. По словам заведующей терапевтическим отделением больницы, к таким последствиям на лице россиянки привел пигмент, который использовался при нанесении перманентного макияжа.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607151453997/pic_b265f39a0615be4614ea0b337462abe3.jpg" type="image/jpeg" length="19863"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/sokolovskiy/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Певец Влад Соколовский снимется в российской адаптации «Постучись в мою дверь»</title>
+  <link>https://lenta.ru/news/2023/06/07/sokolovskiy/</link>
+  <description>
+    <![CDATA[Российский певец Влад Соколовский снимется в российской версии турецкого сериала «Постучись в мою дверь». В проекте артист сыграет роль лучшего друга главного героя Серкана Болата. Соколовский подчеркнул, что его герой будет сильно отличаться от персонажа в турецком сериале. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152355011/pic_7142f665d19d3323f90fd82325c5acb2.jpg" type="image/jpeg" length="19453"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/threee/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Медведицу с тремя медвежатами заметили и сняли на видео в российском нацпарке</title>
+  <link>https://lenta.ru/news/2023/06/07/threee/</link>
+  <description>
+    <![CDATA[В Якутии на устье реки Буотамы в нацпарке «Ленские столбы» заметили и сняли на видео медведицу с тремя медвежатами. Его публикует Telegram-канал национального парка. На кадрах видно, как мама-медведица бежит по траве, за ней следуют три ее детеныша. Такое явление в дикой природе — редкость.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/10/20230607100806883/pic_0046601588931e5a9a8ec3f8dc78dd61.jpg" type="image/jpeg" length="27291"/>
+  <category>69-я параллель</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/patrushev_kahovskaya/</guid>
+  <author>Семен Александров</author>
+  <title>Патрушев заявил о согласии США и НАТО на подрыв Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/patrushev_kahovskaya/</link>
+  <description>
+    <![CDATA[США, Великобритания и их партнеры по НАТО дали согласие на подрыв Каховской гидроэлектростанции. В этом их обвинил секретарь Совета безопасности России Николай Патрушев. Ранее официальный представитель МИД России Мария Захарова потребовал от США ответа за подрыв Каховской ГЭС.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607153756821/pic_dfd75bdab5ee691c23cf664711c2daca.jpg" type="image/jpeg" length="38230"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/postradali/</guid>
+  <author>Александра Качан</author>
+  <title>Названы сильнее всего пострадавшие после разрушения Каховской ГЭС поселки</title>
+  <link>https://lenta.ru/news/2023/06/07/postradali/</link>
+  <description>
+    <![CDATA[Сильнее всего после разрушения Каховской гидроэлектростанции (ГЭС) в Херсонской области пострадали населенные пункты Днепряны и Корсунка. Поселки, которые получили наибольший урон от подтопления, назвал управляющий городом Таврийском Евгений Четкарев. Жители этих населенных пунктов будут эвакуированы.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607150143055/pic_4edf7fc08be785b818263b84bfd2a8c6.jpg" type="image/jpeg" length="35994"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/otvetstvennost/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Патрушев призвал к ответственности США и их партнеров из-за Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/otvetstvennost/</link>
+  <description>
+    <![CDATA[США, Великобритания и их партнеры, которые координируют деятельность украинских властей, должны нести ответственность за разрушение Каховской ГЭС. Об этом заявил секретарь Совбеза России Николай Патрушев. По его словам, западные страны на заседании Совета Безопасности ООН продемонстрировали свою поддержку Киеву.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607154116692/pic_d0ed020eb8e2d06317b9cad2fe666aae.jpg" type="image/jpeg" length="36236"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/stepancov_say/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Лидер группы «Бахыт-компот» Степанцов рассказал о поездках в Донбасс</title>
+  <link>https://lenta.ru/news/2023/06/07/stepancov_say/</link>
+  <description>
+    <![CDATA[Лидер музыкальной группы «Бахыт-компот» Вадим Степанцов рассказал о своих поездках на Донбасс. Артист поведал, что несколько раз посещал передовую, а также сидел в окопах, где снял клип на одну из своих композиций. Степанцов добавил, что у него остались положительные впечатления после общения с военными. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607145520414/pic_d5df3d0884c17c1157823f02cd6545b6.jpg" type="image/jpeg" length="28587"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kiev/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Захарова сравнила Украину в будущем с «Талибаном» и ИГИЛ</title>
+  <link>https://lenta.ru/news/2023/06/07/kiev/</link>
+  <description>
+    <![CDATA[В скором будущем Киев повторит путь всех вскормленных Западом террористических организаций и направит свое террористическое нутро против своих же создателей. Такой вероятный исход предрекла официальный представитель МИД России Мария Захарова в ходе брифинга дипломатического ведомства.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607153045304/pic_f6d2b595315d69a9ad8629aa93db386a.jpg" type="image/jpeg" length="24200"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/ammoniapipelinezaharova/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Россия расследует обстоятельства подрыва аммиакопровода «Тольятти — Одесса»</title>
+  <link>https://lenta.ru/news/2023/06/07/ammoniapipelinezaharova/</link>
+  <description>
+    <![CDATA[Москва расследует обстоятельства подрыва аммиакопровода «Тольятти — Одесса», заявила официальный представитель МИД РФ Мария Захарова. «Мы, конечно, предпримем усилия для того, чтоб прояснить обстоятельства происшествия», — сказала она, назвав Украину единственной страной, не заинтересованной в починке аммиакопровода.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607153825356/pic_44a1c3471d97fff08c92d7e05bf8bf44.jpg" type="image/jpeg" length="30523"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/medikivdele/</guid>
+  <author>Майя Пономаренко</author>
+  <title>В Нальчике открылась посвященная медикам выставка</title>
+  <link>https://lenta.ru/news/2023/06/07/medikivdele/</link>
+  <description>
+    <![CDATA[В Нальчике, Кабардино-Балкария, открылась выставка «Медики в деле», посвященная работе врачей разного профиля. По информации издания, посетители получили возможность увидеть экспонаты в павильоне в парке Столетия республики. Так, на экспозиции представлены фотографии, сделанные непосредственно во время работы медиков.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:36:47 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607153000700/pic_c822b7c5ae5bcdc6ff1c5c59e1f72d6c.jpg" type="image/jpeg" length="23464"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/museumapteka/</guid>
+  <author>Майя Пономаренко</author>
+  <title>В старейшей действующей аптеке Челябинска открыли музей</title>
+  <link>https://lenta.ru/news/2023/06/07/museumapteka/</link>
+  <description>
+    <![CDATA[В Государственной аптеке №1, которая является старейшей из всех действующих аптек Челябинска, появился музей. Согласно материалу, посетители музея не только смогут увидеть экспонаты, связанные с ассортиментом аптеки, но и восковую фигуру самого Плонского. Материалы для упомянутой выставки собирались со всей области.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:36:41 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607151043352/pic_a10fdbf8653a0f39c4d0620a4983dd4a.jpg" type="image/jpeg" length="36079"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/fitness/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Тренер назвала упражнение для прокачки спины и ягодиц в домашних условиях</title>
+  <link>https://lenta.ru/news/2023/06/07/fitness/</link>
+  <description>
+    <![CDATA[Фитнес-тренер Анна Мотина назвала упражнение для прокачки спины и ягодиц в домашних условиях. Эксперт рекомендовала делать гиперэкстензию для укрепления мышц спины, ягодиц и бедер. Специалист подчеркнула, что не рекомендуется выполнять данное упражнение тем, у кого есть проблемы со спиной.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:36:05 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152146780/pic_0b65156b907c04bf125737ad6e28a013.jpg" type="image/jpeg" length="22445"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/wow/</guid>
+  <author>Олег Давыдов</author>
+  <title>Популярная блогерша назвала впечатлившее ее в России явление</title>
+  <link>https://lenta.ru/news/2023/06/07/wow/</link>
+  <description>
+    <![CDATA[Российская актриса и блогерша китайского происхождения Фейя Цзоу назвала снег явлением, которое больше всего ее впечатлило в России. В шоу «Известь» она рассказала, что скучает по снегу, когда уезжает в Китай. «Я вспоминаю это прекрасное явление, и это до сих пор покоряет меня больше всего», — отметила она.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:34:24 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607120126482/pic_56ee12dad60f07662893ecd7bf11dfb4.jpg" type="image/jpeg" length="30774"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/cherepakha/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Спасенной краснокнижной черепахе в Приморье нашли новый дом</title>
+  <link>https://lenta.ru/news/2023/06/07/cherepakha/</link>
+  <description>
+    <![CDATA[Краснокнижную черепаху, спасенную в Приморье, выпустили на волю. Редкий хищник оказался в городском озере и едва не погиб, ее спасением занимались сотрудники нескольких научных организаций. Несколько месяцев черепаха находилась Приморском океанариуме, где ее кормили и лечили.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:31:48 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607153125670/pic_7a8a78dd3cdecc76207c198d09302b4b.jpg" type="image/jpeg" length="22582"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/kontrr/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Беременная аферистка обманула контр-адмирала Генштаба СССР</title>
+  <link>https://lenta.ru/news/2023/06/07/kontrr/</link>
+  <description>
+    <![CDATA[В Москве беременная аферистка обманула 91-летнего контр-адмирала Генштаба СССР на 1,6 миллиона рублей. Он рассказал, что 10 мая ему позвонила женщина и представилась сотрудником Пенсионного фонда. Она посоветовала контр-адмиралу заменить «старые денежные знаки на новые». В настоящее время полиция ведет ее поиск.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:31:45 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/12/20230607121442897/pic_7d9248313e9f460453876924381884c6.jpg" type="image/jpeg" length="30076"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/06/planets/</guid>
+  <author>Александр Еникеев</author>
+  <title>Обнаружена планета класса теплый юпитер с необычной орбитой</title>
+  <link>https://lenta.ru/news/2023/06/06/planets/</link>
+  <description>
+    <![CDATA[Астрономы под руководством ученых из Университета штата Пенсильвания сообщили об открытии экзопланеты класса теплый юпитер TOI-1859 b, которая вращается вокруг родительской звезды по вытянутой и наклонной орбите. Она имеет радиус около 0,86 радиуса Юпитера и обращается вокруг своего хозяина каждые 63,48 дня.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:29:15 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/06/17/20230606175737635/pic_7ae352d36feb70df3008e5557853b7ec.jpg" type="image/jpeg" length="19610"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/basta/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Баста назвал Скриптонита алкоголиком</title>
+  <link>https://lenta.ru/news/2023/06/07/basta/</link>
+  <description>
+    <![CDATA[Российский рэпер Василий Вакуленко, выступающий под псевдонимом Баста, назвал исполнителя Скриптонита алкоголиком на фоне переживаний за здоровье музыканта. «Алкоголик. Я сказал "алкоголик", но на самом деле "алкоголь". Меня раздражает, что он пьет, хотя у него язва. Он пьет, пьет, пьет», — поделился артист.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607142420027/pic_e1c17f0b5e4bb01ffa82d93c16c1c318.jpg" type="image/jpeg" length="20066"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/daughtersaak/</guid>
+  <author>Кристина Есикова</author>
+  <title>Брат Саакашвили подтвердил рождение ребенка у экс-президента Грузии</title>
+  <link>https://lenta.ru/news/2023/06/07/daughtersaak/</link>
+  <description>
+    <![CDATA[У бывшего президента Грузии Михаила Саакашвили и депутата Верховной Рады Украины Елизаветы Ясько полгода назад родилась дочь. Рождение ребенка подтвердил брат политика Давид Саакашвили. «Да, это ребенок Михаила. Это девочка, родилась примерно полгода назад. Я виделся с ней. Михаил ребенка не видел», — рассказал он.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152702237/pic_7d1021427db1fd7302f3a30140157388.jpg" type="image/jpeg" length="18120"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/products/</guid>
+  <author>Мария Винар</author>
+  <title>Россиянкам старше 40 лет назвали еду для поддержания идеальной фигуры</title>
+  <link>https://lenta.ru/news/2023/06/07/products/</link>
+  <description>
+    <![CDATA[Врач-диетолог Дарья Гудкова назвала россиянкам старше 40 лет еду для поддержания идеальной фигуры. В первую очередь эксперт призвала добавить в ежедневный рацион курицу, рыбу, говядину, тофу, а также молоко, творог и натуральный йогурт. Кроме того, медик посоветовала включить продукты с содержанием кальция. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607150245294/pic_dfeac2460c4e7645d762119302930b29.jpg" type="image/jpeg" length="24918"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/money/</guid>
+  <author>Марк Леонов</author>
+  <title>Названа тратящая больше всего денег на свое руководство партия Госдумы</title>
+  <link>https://lenta.ru/news/2023/06/07/money/</link>
+  <description>
+    <![CDATA[Названа тратящая больше всего денег на свое руководство партия Госдумы. Из финансовых отчетов политических объединений за 2022 год, представленных в Центральную избирательную комиссию, следует, что этой партией оказалась ЛДПР.  Поступившие в распоряжение ЛДПР государственные средства были распределены неравномерно.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607150748927/pic_62011fa80ea01176aaf87162c0d7d7a4.jpg" type="image/jpeg" length="40722"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/nazarsoon/</guid>
+  <author>Георгий Нестеров</author>
+  <title>В Казахстане анонсировали ликвидацию канцелярии Назарбаева</title>
+  <link>https://lenta.ru/news/2023/06/07/nazarsoon/</link>
+  <description>
+    <![CDATA[Вице-премьер, министр финансов Казахстана Ерулан Жамаубаев анонсировал ликвидацию канцелярии первого президента республики Нурсултана Назарбаева. По его словам, в скором времени канцелярия Назарбаева перестанет существовать. «Думаю, в течение месяца-полутора вопрос будет решен», — уточнил он.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:21:50 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607151154534/pic_3d82e57cd66ca1161a6a34b69cb13ed9.jpg" type="image/jpeg" length="24335"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/planee/</guid>
+  <author>Фариза Бацазова</author>
+  <title>Случайно объявившие тревогу в аэропорту Москвы пилоты напугали его работников</title>
+  <link>https://lenta.ru/news/2023/06/07/planee/</link>
+  <description>
+    <![CDATA[Пилоты из Афганистана случайно объявили тревогу в Шереметьево и напугали его работников. Борт из Кабула сел на взлетно-посадочную полосу в столичной авиагавани и долго не освобождал ее. Спустя некоторое время афганцы активировали код «Зеленый», который обычно предупреждает об аварийном происшествии на земле.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:21:49 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607151705608/pic_008639c4a950ecdbafe4d285e7a71498.jpg" type="image/jpeg" length="45400"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/bespoleznost/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>На Украине обвинили ООН в бесполезности</title>
+  <link>https://lenta.ru/news/2023/06/07/bespoleznost/</link>
+  <description>
+    <![CDATA[В Киеве активист с псевдонимом Йось наклеил на автомобили, принадлежащие сотрудникам Организации Объединенных Наций, плакаты. На машинах он перекрыл листом бумаги вторую букву в названии организации — UN (ООН), — получив таким образом слово Useless, что можно перевести на русский язык как «бесполезные».]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152436560/pic_0fafda040a17da4bfcf40cb18fdbd38d.jpg" type="image/jpeg" length="29218"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/sbros_vody/</guid>
+  <author>Никита Абрамов</author>
+  <title>Патрушев заявил о сбросе воды Киевом на ДнепроГЭС до подрыва Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/sbros_vody/</link>
+  <description>
+    <![CDATA[За сутки до подрыва Каховской гидроэлектростанции (ГЭС) по указанию Киева была сброшена вода на ДнепроГЭС. Об этом заявил секретарь Совбеза России Николай Патрушев. Он добавил, что Вооруженные силы Украины (ВСУ) обстреливают Новую Каховку более года, а подрыв плотины на Каховской ГЭС назвал террористической атакой.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152325445/pic_ebc90109d7c2b63bb32509e92e8c14b5.jpg" type="image/jpeg" length="41966"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/423/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Эрдоган позвонил Зеленскому и обсудил взрыв на Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/423/</link>
+  <description>
+    <![CDATA[Президент Турции Реджеп Тайип Эрдоган позвонил украинскому коллеге Владимиру Зеленскому и предложил создать международную комиссию для расследования взрыва на Каховской ГЭС. Участие в расследовании могут принять и эксперты ООН. Эрдоган сказал Зеленскому, что для решения проблемы можно также начать переговоры. ]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/15/20230607152026528/pic_11c933bbf943f8bd1aa5cc58db268980.jpg" type="image/jpeg" length="17295"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/06/07/years_ges/</guid>
+  <author>Нина Ташевская</author>
+  <title>Названы примерные сроки ликвидации последствий разрушения Каховской ГЭС</title>
+  <link>https://lenta.ru/news/2023/06/07/years_ges/</link>
+  <description>
+    <![CDATA[На ликвидацию последствий и приведение в порядок территории после разрушения Каховской ГЭС уйдут годы, заявил руководитель общественной организации «Зеленый патруль» Андрей Нагибин. Эколог назвал произошедшее огромной катастрофой и отметил, что на данный момент в первую очередь будут заниматься спасением людей.]]>
+  </description>
+  <pubDate>Wed, 07 Jun 2023 15:18:31 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/07/14/20230607144607503/pic_b54e926b1fcaa4a369a618a9576e8be5.jpg" type="image/jpeg" length="25238"/>
+  <category>Среда обитания</category>
+</item>
+  </channel>
+</rss>
